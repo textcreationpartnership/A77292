@@ -1,0 +1,1114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dr Durie's defence of the present ministry, being compared with the gospel and gospel ministry, turnes into smoke, and vanisheth As is made to appear in the ensuing treatise, by a witnesse of the gospel, John Braine.</title>
+            <author>Brayne, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 111 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77292</idno>
+            <idno type="STC">Wing B4322A</idno>
+            <idno type="STC">ESTC R231104</idno>
+            <idno type="EEBO-CITATION">99896777</idno>
+            <idno type="PROQUEST">99896777</idno>
+            <idno type="VID">135183</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77292)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135183)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2439:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dr Durie's defence of the present ministry, being compared with the gospel and gospel ministry, turnes into smoke, and vanisheth As is made to appear in the ensuing treatise, by a witnesse of the gospel, John Braine.</title>
+                  <author>Brayne, John.</author>
+               </titleStmt>
+               <extent>[4], 36 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed in the year, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian literature --  Early works to 1800.</term>
+               <term>Theology, Doctrinal --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135183:1" rendition="simple:additions"/>
+            <p>Dr <hi>D<g ref="char:V">Ʋ</g>RIE'S</hi> DEFENCE OF THE PRESENT MINISTRY, Being compared with the <hi>Goſpel</hi> and <hi>Goſpel Miniſtry,</hi> turnes into ſmoke, and vaniſheth.</p>
+            <p>
+               <hi>As is made to appear in the enſuing Treatiſe,</hi> By a Witneſſe of the Goſpel, <hi>JOHN BRAINE.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Gal. 2.14.</hi>
+               </bibl> When I ſaw they walked not uprightly, according to the truth of the Goſpel, I ſaid to Peter before them all, &amp;c.</q>
+            <p>Printed in the Year, 1649.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:135183:2" rendition="simple:additions"/>
+            <pb facs="tcp:135183:2" rendition="simple:additions"/>
+            <head>To the Honourable, the Committee of the County of <hi>South-Hampton</hi> The Learned Aſſembly at <hi>Weſtminſter,</hi> and the Godly and wel-affected of the County aforeſaid.</head>
+            <p>TO you firſt of the Aſſembly I commend theſe things, becauſe you are they to whom the Supreme Authority of the Nation, hath committed the care and judgement of theſe, and the like differences, that you may judge be<g ref="char:EOLhyphen"/>tween us, and make publike if you pleaſe, your diſſent from what is not of Goſpel proof, on either part.</p>
+            <p>To you the Honourable Committee aforeſaid, I humbly preſent theſe alſo, that you hereby may ſee, that by this, or by the other cries of men of diffe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> judgements, Is <gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>e <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o be ſpoyled or wounded by you; ſpoyled of that by your word, and hand-writing, you have, for my Miniſteriall labours promiſed me, it being the life of me and my great family: or wounded in my name, who have lived, though in weakneſſe, according to the teſtimonies of Chriſt; and give me leave to mind you that of God, That the labourer is worthy of his hire.</p>
+            <p>To you my faithfull and beloved friends of the <hi>Soake</hi> the City of <hi>Win<g ref="char:EOLhyphen"/>ton,</hi> and County aforeſaid; I leave this as my loving remembrance to you, adviſing you to beware of the ſecret practiſes of men againſt the Goſpel, as of works of darkneſſe, and deep diſhoneſty in them that do them, from whome, and from which things keep your ſelves.</p>
+            <p>And <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Mr Doctor Durie,</hi> I challenge a breach of promiſe, who near twelve moneths ſince, by letter promiſed me your notes on my booke, and you contrary thereunto ſend my book and your bitter notes on it to my adverſaries, what hand you had in the private communicating of them I know not, but leave to God: Sir, in obedience to Chriſt onely, I have forborne to returne you railing for railing; nor would I have you for this, thinke I have forgot any good I have received from you, but acknowledge the leaſt tha<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uln<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe: Sir, I have not wronged you a word, as I know, in tr<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſcribing your no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, they ſhall be compared with the Originall, at your command b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> any indifferent man; Sir, all that I have done herein is for the Goſpel, my deareſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> friend, for whome I deſire to forſake all, and althings, and yet reſt,</p>
+            <closer>
+               <signed>
+                  <hi>Gladly yours to ſerve you, and al the forementioned, according to the Goſpel ſervice of God,</hi> John Braine.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:135183:3" rendition="simple:additions"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>THeſe Notes of <hi>Dr Duries,</hi> I found written on the margent of a Booke properly mine owne (being Intituled, <hi>The ſmoke of the Temple cleared by the light of the Scripture</hi>) lying one Shop-keepers Table where I live, which I taking away with me, was after ſent for to make appearance before two Juſtices of the County aforeſaid, who were deſired to grant a War<g ref="char:EOLhyphen"/>rant to apprehend me (Fellon-like) therefore, but honeſtly refuſed it, who after on my appearance, becauſe I would not ſurrender the ſaid book, choſing rather to obey the Law paſſively in that point, then actively; I was, and now ſtand ingaged, to make appearance at the next Quarter-Seſſions, to make Anſwer before the Bench, for thus illegally ſeizing on my owne proper goods, being a book ſent <hi>Mr Doctor,</hi> upon his ſending to one <hi>Mr Ellis,</hi> for him to call on me to <hi>ſend</hi> him one of my Books, as the ſaid <hi>Mr Ellis</hi> told me, and not <hi>give</hi> him one, nor was it by me <hi>given;</hi> now that this onely c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> aforeſaid, muſt he taken in the buſineſſe, I thinke cannot but ſeem ſtrange to all that read it: Theſe Notes made in anſwer to the Doctor, by me, were of two dayes ma<g ref="char:EOLhyphen"/>king, which will plead for their imperfection, for thy better underſtanding the Treatiſe, the letter <hi>P.</hi> is put for what page of the Book, called, <hi>The ſmoake of the Temple, &amp;c.</hi> the Doctor drew his obſervation from, and the Scri<g ref="char:EOLhyphen"/>pture added to it, ſhews the ground the Doctor drew his aſſertions from, which I doubt not but will clear many things in Scripture, hid formerly to the world, and prove profitable to all that read them, by beeing compared, things with things.</p>
+            <p>But to come to the Doctors obſervations themſelves, he paſſeth by the three firſt pages, as having nothing to object, and begins with page <hi>4.</hi> ſtriving, if he had ſtrength enough, to remove the Evangelist from his owne, into anothers place, and ſo I leave him to his lift and triall of his ſtrength; who may, as ſoone by help of a leaver, role the round world out of his place, as the Evangeliſt out of his, and ſooner too; ſo unable is man found to be, when he ſtrives againſt Truth.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:135183:3" rendition="simple:additions"/>
+            <head>
+               <hi>Luke</hi> 16.29. compared with <hi>Eph.</hi> 2.20.</head>
+            <p>P. 4.</p>
+            <p>
+               <hi>Doctor.</hi> 
+               <seg rend="decorInit">W</seg>Hat is here ſaid of the Apoſtles, is appliable unto Evangeliſts.</p>
+            <p>
+               <hi>Reſp.</hi> 1. This is <hi>petitio principii,</hi> or a beg<g ref="char:EOLhyphen"/>ging the thing in queſtion; Mr <hi>Doctor,</hi> You would have it ſo.</p>
+            <p n="2">2. The Scriptures were given by Divine inſpiration to the Apoſtles and Prophets, but not the ordinary Evangeliſts.</p>
+            <p n="3">3. Nor are the Evangeliſts to be proved as the Apoſtles are to be, in any extraordinary way in the Church: God in 2 <hi>Epheſ.</hi> 20. ſaith, the Apoſtles and Prophets, are of the Foundation, but not Evan<g ref="char:EOLhyphen"/>geliſts.</p>
+            <p>
+               <hi>Dr.</hi> I ſay, thoſe Prophets who were before Chriſts time, are properly to be underſtood, <hi>Eph.</hi> 2.20. becauſe they were the foun<g ref="char:EOLhyphen"/>dation upon which the Church was built, as appears by <hi>Acts</hi> 26.22. 2 <hi>Pet.</hi> 1.19. yet I hold, that the Prophets which are named, <hi>Eph.</hi> 4.11. are diſtinct from thoſe Antient ones, theſe are not the foun<g ref="char:EOLhyphen"/>dation of the Chriſtian Church; but theſe were the Apoſtolicall office <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> doth ementer <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> comprehend theſe, but not theſe, for theſe were before the Apoſtles; nor are the Prophets named, <hi>Eph.</hi> 4.11. <hi>qua</hi> diſtinct from the Apoſtles, but if at all they are to be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>united the foundation, it is onely as in and under the Apo<g ref="char:EOLhyphen"/>ſtolical office: Then beſides, by the foundation of the Apoſtles and the Prophets, is only meant the doctrine Apoſtolical and Pro<g ref="char:EOLhyphen"/>phetical, whereof Chriſt is the ſubſtance, that is, the one corner ſtone, and is it not ſo alſo in reſpect of the Evangeliſts?</p>
+            <p>
+               <hi>Reſp.</hi> 1. For Anſwer to this confuſed maſſe, take my owne words in my Book; by Prophets, I underſtand not only thoſe wrot before Chriſts time, but thoſe wrot ſince alſo.</p>
+            <p n="2">2. Whereas he ſaith, The Antient ones are not the foundation of the Chriſtian Church. It is clear the Prophets before Chriſt, are in the ſame way, a foundation to the now Church; as the Prophets that were ſince: 1 <hi>Peter.</hi> 1.12. <hi>Not to themſelves, but to us,</hi> ſaith the
+<pb n="2" facs="tcp:135183:4" rendition="simple:additions"/> Apoſtle, ſpeaking to thoſe under the Goſpel adminiſtrations, they did miniſter theſe things in a Church adminiſtration; only they were not in this time.</p>
+            <p n="3">3. He ſaith, The Prophets are not ſpoken of <hi>qua</hi> diſtinct from the Aopſtles, <hi>Eph.</hi> 4.11. How ſad a thing is it to ſee a <hi>Doctor</hi> ſo de<g ref="char:EOLhyphen"/>ceived? are all the reſt ſpoken of as diſtinct; and doth he dream this is not? ſee then, if the Apoſtle hath in any other Scripture diſtin<g ref="char:EOLhyphen"/>guiſhed them, if he ſeeth it not heer, 1 <hi>Cor.</hi> 12.28. <hi>God hath placed in the Church firſt, Apostles:</hi> 2. <hi>Prophets.</hi> ſee if God hath not diſtinguiſh<g ref="char:EOLhyphen"/>ed them by a firſt, and ſecond. This man would have confounded the Church Miniſtry, m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>king of two one: with the men of his mind, it is nothing to make all one.</p>
+            <p n="4">4. He tels us, by foundation, was not ment the Apoſtles, but their Doctrine. I having cited the text, <hi>Eph.</hi> 2.20. this is clear e<g ref="char:EOLhyphen"/>nough expreſſed, that it is the foundation of the Apoſtles; not that the Apoſtles, as the Papiſts ſay of <hi>Peter,</hi> are the foundations of the Church; there was no foundation for the <hi>Doctor</hi> to make this lear<g ref="char:EOLhyphen"/>ned exception.</p>
+            <p>
+               <hi>P.</hi> 5.</p>
+            <p>
+               <hi>Dr.</hi> The Church of the Goſpel, is built on the truths delivered by the old Prophets, as is clear by <hi>Acts</hi> 26.22. <hi>Luke</hi> 24.27. 2 <hi>Pet.</hi> 1.19.</p>
+            <p>
+               <hi>Reſp.</hi> To me it is much to ſee ſo grave a man fight with his own ſhadow, for in this he hath not hit me at all; I granted this in my Book, which might wel have ſaved him his learned labour.</p>
+            <p>
+               <hi>Dr.</hi> But the Prophets, ſubordinate to the Apoſtles, were no more founders to the Church, then the Evangeliſts.</p>
+            <p>
+               <hi>Reſp.</hi> For men of reputed learning and eſteeme, I ſee it is no<g ref="char:EOLhyphen"/>thing to ſay any thing, though never ſo clear againſt the truth: <hi>Eph.</hi> 2.20. we are built upon the foundation of the Apoſtles and Prophets, I provoke you Mr <hi>Doctor,</hi> to ſhew where it is ſaid that we are built upon the Evangeliſts.</p>
+            <p>Dr. <hi>Titus</hi> was no where called Evangeliſt, was he therefore none?</p>
+            <p>
+               <hi>Reſp.</hi> Mr. <hi>Doctor,</hi> How ſhall I believe he was, if the Scripture ſay not of him he was one? I am ſure you have no Goſpel makes him ſuch that ever he wrote, unleſſe it be one lately brought from <hi>Rome.</hi>
+            </p>
+            <p>
+               <hi>Dr.</hi> What need <hi>Marke</hi> and <hi>Luke</hi> be called Evangeliſts, ſeeing their worke doth ſpeake them ſuch?</p>
+            <p>
+               <hi>Reſp.</hi> You may eaſily ſee Mr. <hi>Doctor</hi> is good at the begging of the queſtion, and paſſing by the matter objected, <hi>viz.</hi> That the Evan<g ref="char:EOLhyphen"/>geliſts
+<pb n="3" facs="tcp:135183:4" rendition="simple:additions"/> office, 2 <hi>Tim.</hi> 4, 5. is a miniſteriall Church worke, and not a writing work, as I have proved at large in my Letters ſent to the Aſſembly, and printed, but not Anſwered, becauſe you have not leiſure, as in your Letters formerly you ſay concerning this Book.</p>
+            <p>
+               <hi>Dr.</hi> The worke of an Evangaliſt is not only to Preach, but to order matters by Apoſtolical direction, <hi>Tit.</hi> 1.5.</p>
+            <p>
+               <hi>Reſp.</hi> 1. This then ſhewes your Evangeliſt was no extraordinary of<g ref="char:EOLhyphen"/>ficer in the Church, for what he did, he did by direction, as you and I ſhould do in the Church, were we faithful, and no other<g ref="char:EOLhyphen"/>wiſe.</p>
+            <p n="2">2. In my forme of Goſpel Government, for Goſpel Churches, and in this book (you ſo ſift to find chaffe in) I have allowed as well Government, as Teaching to the Church Miniſtry according to Jeſus Chriſt, and you prove no more for <hi>Titus</hi> is not for this worke here, or any where called Evangeliſt, nor were any where elſe for that particular act.</p>
+            <p>Dr. <hi>Is not the writing the hiſtory of Chriſt's life, the worke of an Evangeliſt? and if</hi> Marke <hi>and</hi> Luke <hi>did this, why ſhould they not be called Evangeliſts?</hi>
+            </p>
+            <p>Reſp. <hi>An riſum teneatis amiei,</hi> Mr <hi>Doctor</hi> if they did this, why yet ſhould they be called Evangeliſts unleſſe you can canoniſe them for ſuch by authority of the Presbytery that now is?</p>
+            <p>
+               <hi>Doctor,</hi> And is not the work extraordinary? was it not indited and directed by the Spirit, <hi>in</hi> Mark <hi>and</hi> Luke <hi>as well as in</hi> Mathew <hi>and</hi> John.</p>
+            <p>
+               <hi>Reſp.</hi> M. <hi>Doctor,</hi> When you wrot notes on my Book, and had it communicated in that diſgracefull way as this was: I thought you had not vented your ſelf into ſuch like Quries as theſe.</p>
+            <p n="2">2. A man would have thought your reading would have taught you to diſtinguiſh between an Apoſtle, and an Evangiliſt.</p>
+            <p n="3">3. I thought my former letter to you of this point, would have made you blot out this dul notion; ſeeing the Goſpel, you ſo much talk of, <hi>Luke</hi> 1. was by him but a ſetting in order; things believed amongſt us, as himſelf ſaith, and not inſpired into him <hi>ver.</hi> 2. As they delivered them to us. And here M. <hi>Doctor,</hi> Who were theſe, but <hi>Mark</hi> and <hi>Luke?</hi> and then by whom, but by eie witnſſes? which were, it is likely, <hi>Matthew</hi> and <hi>John,</hi> with the reſt of the Apoſtles, and it may be ſaid of the ſeventy, of which <hi>Mark</hi> and <hi>Luke</hi> were not; but had it from them that were; as is plain and clear to him that is not blinded.</p>
+            <pb n="4" facs="tcp:135183:5" rendition="simple:additions"/>
+            <p>
+               <hi>Doctor,</hi> And is not the hyſtory of Chriſt a fundamentall truth of the Goſpel?</p>
+            <p>
+               <hi>Reſp.</hi> And M. <hi>Doctor,</hi> The Amanuenſes of many of the Pſalms, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Prophets, the Epiſtle of the Romans, <hi>Tertius, Rom.</hi> 16.22. were not made there by Evangeliſts; yet are their writings not authori<g ref="char:EOLhyphen"/>tative, they being dictated to by the Apoſtles and Prophets.</p>
+            <p>
+               <hi>P.</hi> 6.</p>
+            <p>Dr. <hi>Rom.</hi> 10.15. From <hi>Eſay.</hi> 52.7. Is not to be underſtood of the diſtinct office of the Evangeliſt, as he differs from the Apoſtle Prophet, Paſtor and Teacher: but to Evangelize there, doth com<g ref="char:EOLhyphen"/>prehend all the teſtimony of Jeſus, in all reſpects, but eſpecially of the Apoſtles worke; and if this be ſo, then from the generall denomination of Evangelizing the diſtinct office of the Evangeliſt can be no more proved to be ordinary, then from the generall name of Meſſengers; 2 <hi>Cor.</hi> 8.23. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> that the Apoſtoli<g ref="char:EOLhyphen"/>cal Office is ordinary; as Preachers are in ſome ſenſe Evangeliſts, <hi>viz.</hi> in reſpect of the glad tydings that they preach.</p>
+            <p>
+               <hi>Reſp.</hi> That Evangelizing, was applyed to the whole Goſpel mi<g ref="char:EOLhyphen"/>niſtry I granted, and thence proved, that it was an ordinary Office in the Church, yet to teach and apply peace with the good things of the Goſpel, to the ſtrong men in Chriſt onely, was the proper worke of the Church Evangeliſt, to which <hi>Paul</hi> applieth that of 1 <hi>Cor.</hi> 1.17. he diſtinguiſhing the Teachers Miniſtry, under the act of Baptizing, who taught alſo; and the Evangeliſts Miniſtry, which <hi>Paul</hi> in <hi>Corinth,</hi> as an ordinary Miniſter, officiated with other his fellow helpers.</p>
+            <p n="2">2. For your parallel place, 2 <hi>Cor.</hi> 8.23. I would you would take your Bible, and ſee how God diſtinguiſhed theſe Apoſtles from the others, 1 <hi>Cor.</hi> 1.1. <hi>Eph.</hi> 1.1. <hi>Colloſ.</hi> 1.1. <hi>Paul</hi> is an Apoſtle of Jeſus Chriſt: the Apoſtles 2 <hi>Cor.</hi> 8.23. are Apoſtles of the Chur<g ref="char:EOLhyphen"/>ches; Sir, I may ſay to you of this, as Chriſt to the blind <hi>Phariſees, ye errre, not knowing the Scriptures,</hi> ſo that this Scripture proves not any hinderance to my concluſion, as you ſeem to affirme, but that thence, it appears, becauſe the name is given, in common to the or<g ref="char:EOLhyphen"/>dinary Miniſtry, it was but an ordinary office in the Church, which oft as Paſtors and Teachers to remaine therein to the end.</p>
+            <p>
+               <hi>Dr.</hi> That <hi>Timothy</hi> and <hi>Titus</hi> were imployed only about one place, is ſo directly oppoſite to Scripture, that nothing can be more; and it was aproperty of the Evangeliſts office as diſtinct from the reſt, and extraordinary, to be fixed to no place, but to be fellow helpers to the Apoſtles, 2 <hi>Cor.</hi> 8.23.</p>
+            <pb n="5" facs="tcp:135183:5" rendition="simple:additions"/>
+            <p>
+               <hi>Reſp.</hi> 1. Reader, ſee how willing the Doctor is to catch at flies, and obſerve, the thing he quarrels at is no ſaying of mine, but <hi>Chryſoſtomes,</hi> on <hi>Eph.</hi> 4.11. <hi>qui occupabantur circa unum duntaxat locum, ut Timotheus ac Titus,</hi> he ſpeaking before of Evangeliſts.</p>
+            <p n="2">2. For his Scripture, being more to be looked after then his ar<g ref="char:EOLhyphen"/>guments, 2 <hi>Cor.</hi> 8.23. <hi>Titus</hi> is <hi>Pauls</hi> f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llow-helper, here he is not called an Evangeliſt, nor was he, but Paſtor or Teacher in the Church with him onely, 2 <hi>Tim.</hi> 4.5. <hi>Paul</hi> being to die, bid him do the worke of an evangeliſt; and before that time with <hi>Paul,</hi> he never did it, <hi>Paul</hi> in fellowſhip did that worke.</p>
+            <p>
+               <hi>P.</hi> 7.</p>
+            <p>
+               <hi>Dr.</hi> Rule of the Schools is true, <hi>quod Theologia Symbolica eſt argu<g ref="char:EOLhyphen"/>men<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tiva.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> Sir, I deſpiſe not Learning, nor the Schooles, but the too much tying of men to the Rules of Schooles, took away all know<g ref="char:EOLhyphen"/>ledge, and made men fooles heretofore; I thinke no Scripture but is argumentive, unleſſe by the Scripture you overthrow my argu<g ref="char:EOLhyphen"/>ment; this is a fine way of Anſwering objections, approved in the Schools, but not in the Church.</p>
+            <p>
+               <hi>P.</hi> 8.</p>
+            <p>Dr. <hi>John's</hi> Miniſtry was, <hi>medium quid inter legem, &amp; Evangelium,</hi> and made both one in that which was ſubſtanciall unto both.</p>
+            <p>
+               <hi>Reſp.</hi> I approve of your learned diſtinction well, which was in my Book made thus to your hand in Engliſh, that he was not of <hi>Moſes</hi> Miniſtry, <hi>Mat.</hi> 11.13. nor of Kingdome Miniſtry, <hi>ver.</hi> 11.</p>
+            <p n="2">2. But that he made both, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that is the Miniſtry of both one, is a thing found out by long ſtudy in the Aſſembly, who have found a way to make one two, and two one, as the Doctor in the Church, and the Doct<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r in the Univerſity, to be meant in <hi>Epb.</hi> 4.11. as in your Propoſitions; or for what end is it ſet there, but to blind the world?</p>
+            <p>
+               <hi>Dr.</hi> This is a ſilly weak Criticiſme, and there is more inferred upon it then it wil bear; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> &amp; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> differ only in <hi>mod<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> the ſame word is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> &amp; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as it is publiquely declared in the name of God, it is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and as it is declared to men that are ignorant thereof, it is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, there is therefore no ground for a different adminiſtration, for he that in reſpect of God is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in reſpect of men is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>
+               <hi>Reſp.</hi> 1. Sir, If I did <hi>criticie,</hi> it was not wilfully, and ſo it may well be weakly; but you do it over and over, I do not tell you it is ſillily done, ſure I am you have overdone it; I am loath to ſhew
+<pb n="6" facs="tcp:135183:6" rendition="simple:additions"/> you, leaſt you ſhould be aſhamed at it, 2 <hi>Tim.</hi> 1.11. <hi>Paul</hi> is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: here leſt you criticks of the Aſſem<g ref="char:EOLhyphen"/>bly, ſhould make the miniſtry without the Church, and that with<g ref="char:EOLhyphen"/>in the Church one, he puts the Apoſtle between to keep them aſun<g ref="char:EOLhyphen"/>der, and prove them too.</p>
+            <p n="2">2. Here in reſpect of God, he is not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> that is, falſe Do<g ref="char:EOLhyphen"/>ctrine; Mr Doctor, the Apoſtle ſaith, as Preacher, and Teacher, he was both in reſpect of his miniſtry to men onely, and that in dif<g ref="char:EOLhyphen"/>fering wayes of miniſtry, the one before the Church miniſtry, which began in the Apoſtles, and ended in the Teachers; ſo that my ſilly weak Criticiſm hath the ſtrength of a Goſpel truth in it, and ſeemes to beat down your Antichriſtian Church adminiſtration</p>
+            <p>
+               <hi>Dr.</hi> The arguments which are taken from the order of words and names are of no force, except the Scripture adde ſome Chara<g ref="char:EOLhyphen"/>cteriſticall note thereunto, to expreſſe that it doth intend the or<g ref="char:EOLhyphen"/>der ſhould be obſerved, as in <hi>Eph.</hi> 4.11. it doth adde onely a note of diſtinction, but in the 1 <hi>Cor.</hi> 12.28. it adds a note of order, firſt, ſecond, third, and now Paſtors and Teachers, are not ex<g ref="char:EOLhyphen"/>preſſely diſtingiſhed; and from the other, as the Apoſtles, Prophets, and the Evangeliſts are, and whereas <hi>Eph.</hi> 4.11. Paſtors are named before Teachers, 1 <hi>Cor.</hi> 12.28. only Teachers are named, and E<g ref="char:EOLhyphen"/>vangeliſts, and Paſtors are not at all, ſo that in the order of words there can be no great matter to ground ſuch an inference upon.</p>
+            <p>
+               <hi>Reſp.</hi> Mr Doctor, you know my means is ſhort, ſo that I can<g ref="char:EOLhyphen"/>not be as large to ſatisfie the world or you (as I would) but thus, briefly thus, before you perverted the Scripture, now you ſeek to take away the glory of it; Sir, the word is divine, not only <hi>mate<g ref="char:EOLhyphen"/>rialiter</hi> but <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>formaliter,</hi> and yet you dare ſay, arguments are not to be taken from the order of words, and then come to ſet <hi>Epheſi<g ref="char:EOLhyphen"/>ans</hi> and <hi>Corinths</hi> one to oppoſe the other, when indeed they both op<g ref="char:EOLhyphen"/>poſe you, ſhewing you, none but Apoſtles are of the firſt ranke, and ſo are diſtinct from Prophets of the ſecond; &amp; for the third, they are all Teachers, among which the Evangeliſt is one with the Paſtor and Teacher, of which, one is not more extraordinary then the o<g ref="char:EOLhyphen"/>ther; Sir, pray ſee my Letters to the Aſſembly, theſe are both at large and ſatisfactorily laid down in them.</p>
+            <p n="2">2. You obſerve the Paſtors and Teachers are not diſtinguiſhed by <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> as the Evangeliſts and Paſtors, yet you and the groſſeſt Pa<g ref="char:EOLhyphen"/>piſts allow of Paſtors and Teachers, not diſtinguiſhed, but con<g ref="char:EOLhyphen"/>found Evangeliſts that are: is this of God in your Aſſembly?</p>
+            <pb n="7" facs="tcp:135183:6" rendition="simple:additions"/>
+            <p>
+               <hi>P.</hi> 9.</p>
+            <p>Now for an inſertion laid downe in my Book, that the Mini<g ref="char:EOLhyphen"/>ſtry without the Church is to be continued ſtil, to prepare for the Church miniſtry: Mr Doctor ſaith this conſequence is ſo very weake, that it deſerveth no anſwer, and the ground of it is taken away by what hath been ſaid before.</p>
+            <p>
+               <hi>Reſp.</hi> Mr Doctor hath quickly done with the buſineſſe, but I can<g ref="char:EOLhyphen"/>not but wonder, that wiſe men ſhould dally with the truth, and de<g ref="char:EOLhyphen"/>ceive the world: That Scripture, 2 <hi>Tim.</hi> 1.11. will one day riſe in judgement againſt ſome men of theſe dayes; I pray look unto it well you that are concerned in it.</p>
+            <p>
+               <hi>Dr.</hi> If a calling of men fitly qualified, and ſetting them apart according to the word, maketh men miniſters, then we have a mi<g ref="char:EOLhyphen"/>niſtry; but the antecedent is true, <hi>Ergo,</hi> the Conſe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence.</p>
+            <p>
+               <hi>Reſp.</hi> I denie your <hi>major,</hi> firſt, that your calling is not according to the word, nor are you ſet a part according to the word, nor are you members of a true viſible conſtituted Church; and ſo cannot be in that kind fitly qualified: but of this, pray ſee my book called, <hi>The miſtery of the Miniſtry.</hi>
+            </p>
+            <p>
+               <hi>Dr.</hi> Alſo the office of a Paſtor and Teacher, is undoubtedly or<g ref="char:EOLhyphen"/>dinary, and by his owne conf<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſion, it preſuppoſeth a Church in which it is exerciſed; <hi>hath not the Church continued ever ſince the Apo<g ref="char:EOLhyphen"/>ſtles?</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> I would you would learn to confeſſe the truth alſo as I do; but Sir, though I confeſſe they are ordinary Teachers, yet I confeſſe not that they are ſo ordinary as to be any where, but in a true viſible Conſtituted Church only, which hath, or ought to have, the Evangeliſt alſo in ordinary.</p>
+            <p>As to the Queſtion, I Anſwer, there hath not been this 1240 year a viſible Church, in which rightly have been the true Church miniſtry, and right Church conſtitution, though there hath been an inviſible Church through all the time in the world, 1 <hi>Cor.</hi> 12.28. God hath plac<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d in the Church theſe, but not out of the Church.</p>
+            <p>
+               <hi>Dr.</hi> The warrant we have is a lawful call to the miniſtry, the A<g ref="char:EOLhyphen"/>poſtle <hi>James</hi> doth forbid a maſterly eluſorious way of teaching, as is clear by the whole ſequel of his diſcourſe.</p>
+            <p>
+               <hi>Reſp.</hi> Sir, <hi>The ſmoke of the Temple</hi> offends your eyes yet, ye can<g ref="char:EOLhyphen"/>not ſee clearly; your Church is no true Church, nor that it is as you found the Antichriſt of <hi>Rome</hi> leave it, and is no better for its conſtitution then <hi>Rome's</hi> Church is.</p>
+            <pb n="8" facs="tcp:135183:7" rendition="simple:additions"/>
+            <p>Now ſuch as your Church is, your call is, and ſuch your mini<g ref="char:EOLhyphen"/>ſtry; It is true Indeed, <hi>James</hi> forbids a maſterly Teaching, and ſuch is yours Sir, for you Teach in the Church ſo by your ſingle Miniſtry, as you have no example in the Scripture for it.</p>
+            <p>As for <hi>James</hi> his Church, &amp; Church miniſtry there, ſpoke of, was the ſame with yours, not a company of Saints, but adultereſſes and adulterers, <hi>Jam.</hi> 4.4. perſecutors and blaſphemers, <hi>James</hi> 2.6, 7. their tongues ſet one fire of hel, ful of curſing and bitterneſs; Chap. 3.6, 9 and no where called a Church in his Epiſtle; Sir, it ſeemes the more I rub your eyes, the worſe the ſmoke troubles you<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>John's</hi> firſt Epiſtle was written to another manner of Society.</p>
+            <p>
+               <hi>Dr.</hi> It is true, <hi>Paul</hi> did all, becauſe every officer of a ſuperiour degree, hath authority to do the actions of the inferiour: but where are we forbidden to teach? muſt not a miniſter be choſen, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, 1 <hi>Tim.</hi> 3.12?</p>
+            <p>
+               <hi>Reſp.</hi> 1. He did them all until the Church was conſtituted where he was, but when he had others to Teach and labour with him, he took not their worke out of their hands, 1 <hi>Cor.</hi> 1.14. thus <hi>Peter, Acts</hi> 10.48.</p>
+            <p n="2">2. That ye are forbidden to Teach without a lawfull call (that is, Anticriſtian) <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, ye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you are forbid to Teach as you doe, 2 <hi>Cor.</hi> 10.13. we, that is, <hi>Paul, Silvanus, Timothy,</hi> 2 <hi>Cor.</hi> 1.19. in the name of the full Church miniſtry, <hi>Paul</hi> ſaith, we wil not boaſt of things without our meaſure, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: Mr Doctor, pray obſerve in one Church, every miniſter hath a meaſure allowed him to Teach by, which is laid out as by a rule, of which in miniſtry, every man is not to take what he wil, as you do, but God hath parted to each mini<g ref="char:EOLhyphen"/>ſtry his doctrine in the Church, yea, to the Apoſtles, when they taught as ordinary Teachers, and to thoſe that taught with them, to which <hi>Paul</hi> alludes 1 <hi>Theſ.</hi> 2.4. as we were allowed of God; there is a Goſpel allowance to Teachers, what they ſhould Teach, and yet Biſhops choſen by teaching that doctrine, he was to be cal<g ref="char:EOLhyphen"/>led to teach in the Church, and not by others.</p>
+            <p>
+               <hi>P.</hi> 10.</p>
+            <p>
+               <hi>Dr.</hi> Here is no mention of an Evangeliſt at all, how then is it proved hence that he is a perpetual and aſſiſtant miniſter in the Church? and if (as he ſaith) <hi>The Apoſtle doth ſpeak here of publique Church Miniſtry, and doth not name an Evangeliſt in it, then the argument is ſtrong againſt him,</hi> that an Evangeliſt is not an ordinary publique miniſter.</p>
+            <pb n="9" facs="tcp:135183:7" rendition="simple:additions"/>
+            <p>
+               <hi>Reſp.</hi> Mr Doctor ſeems profoundly to argue in this place, againſt nothing: pray conſider it.</p>
+            <p n="1">1. That in this Scripture, <hi>Rom.</hi> 12.6, 7, 8. is not mentioned the name of Prophet, Paſtor or Teacher, which he cannot deny, but yet are implyed here: but becauſe the Evangeliſt is not ſet down, therfore he hath no place at all, though the other may have, having the Doctor's leave.</p>
+            <p n="2">2. The Prophet in propheſy which was before him, is implyed; and the Paſtour, in his work of exhortation, that comes after him; and the Doctor, in teaching, is implyed: And there is Miniſtry for one in the Evangeliſt's place; but he muſt not be there, unleſſe he be ſet down an Evangeliſt, though all teaching, and his emmenter, may be called Miniſtry. Sir, here cannot be underſtood any other Church-Teacher whatever; nor your Church-Deacon, or ſuppo<g ref="char:EOLhyphen"/>ſed Elder, theſe follow in <hi>verſ:</hi> 8. in giving and ruling: Sir, I pray take heed of your taking too much liberty in making the Scripture ſpeak againſt themſelves; if you forbear that, I am ſure they will not ſpeak for you at all here.</p>
+            <p>Dr. <hi>This is a ſilly and irregular thought;</hi> for how can a Church be conſtituted, before God give gifts? Shall we make Evangeliſts, be<g ref="char:EOLhyphen"/>fore God makes them? All Paſtors and Teachers are in a generall ſent Evangeliſts, that is, publiſhers of the Goſpel, but not in a pe<g ref="char:EOLhyphen"/>culiar ſent, as he would have the Evangeliſt to be.</p>
+            <p>
+               <hi>Reſp.</hi> Reader, the cauſe of the Doctor breaking out into this ſilly cry, is, for that in my Book, <hi>pag.</hi> 10. is written, whereas the Apoſtle ſaith, there be divers gifts, from this <hi>Rom.</hi> 12. (I think, if ever a Church were rightly conſtituted, greater gifts would be be<g ref="char:EOLhyphen"/>ſtowed on men, then ſince the Apoſtles.)</p>
+            <p n="1">1. The Doctor underſtands not, that God hath diſtinguiſhed the Church gift from the Heavenly gift; the Church gifts are called, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which are given to men by the Church, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, according to the divine gift God had given them to miniſter the Church gift, by which is the ſeverall cals of the Church miniſtry, Evangeliſts, Paſtors, Teachers; and thus indeed the Church is not to make, before God hath made them, but after.</p>
+            <p n="2">2. For what cauſe the Doctor troubles himſelf about Paſtors and Teachers being Evangeliſts, having before written of it, and ſo few unworthy obſervations of a Doctor, and up with it ſo often, ſhews he wanted matter to object, and that the man is mightily troubled about the Evangeliſt in his mind.</p>
+            <pb n="10" facs="tcp:135183:8" rendition="simple:additions"/>
+            <p>Dr. <hi>This Paragraph is to me a piece of nonſenſe;</hi> for I knew not what he would ſay in it, or how it is coherent with this former di<g ref="char:EOLhyphen"/>ſcourſe.</p>
+            <p>
+               <hi>Reſp.</hi> If the Doctor be ſilly, as he makes himſelf, I wonder he would take upon him, in ſo unworthy a way, to ſend down his no<g ref="char:EOLhyphen"/>tions in ſo ſecret a way, to diſgrace me and my writings privately, amongſt the ignorant multitude: it had been more honour, having been provoked to the preſſe, or print, to have publiſhed ſome wor<g ref="char:EOLhyphen"/>thy work in defence of their Presbyterian Government, ſet out in the Propoſitions, which I printed againſt; or againſt that form of Church Government I added to it; or prove their Government by the practice of the Primitive Church, and diſprove that in my Treatiſe, of the reſurrection of faln Churches; and not in ſeeking to correct truth for errour in a Book, make ten errours, when he proves none, but the not underſtood nonſenſe he talks of, is in this, <hi>The Church miniſtry is ſet out oft times by one word in Scripture, as,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Act:</hi> 20.17. <hi>he called for,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>thus that,</hi> 1 <hi>Cor:</hi> 12.28. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (that is, that under theſe words ſet down in the plurall number, the whole ordinary Church miniſtry are comprehended, of <hi>Epheſus,</hi> or <hi>Corinth</hi>) and conſequently, may be of any other Church.</p>
+            <p>Now Reader, judge where this be nonſenſe, where a man but of ſmall underſtanding, may not apprehend it, though not a Doctor; and where it agreeth with the whole ſcope of my Book, or not; and how little cauſe the Doctor hath to call it nonſenſe.</p>
+            <p>
+               <hi>Dr.</hi> If the thing in queſtion had been proved, theſe objections might have been made: but now they are a begging of the que<g ref="char:EOLhyphen"/>ſtion.</p>
+            <p>
+               <hi>Reſp.</hi> Sir, when God hath thrown down <hi>Babel,</hi> he will prove it unto you then; and I ſhall no need beg the Queſtion any more: nor if you would yeild to the truth, I need not come a begging to you for theſe things at all.</p>
+            <p>P. <hi>11.</hi> The third Church.</p>
+            <p>
+               <hi>Dr.</hi> Where was the ſecond Church ſpoken of? For hitherto he hath mentioned only <hi>Rome</hi> to prove the point, which hath yeild<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d no proof at all.</p>
+            <p>
+               <hi>Reſp.</hi> 1. The firſt Church, which I now muſt make the ſecond, was that of <hi>Epheſians, pag:</hi> 2. O Mr Doctor, have you this twelve month been making obſervations on my Book, and paſs over the ſubject of my diſcourſe with ſo little notice, as to ask where the
+<pb n="11" facs="tcp:135183:8" rendition="simple:additions"/> ſecond was: ſure that text of Scripture doth dazle your eie-ſight, when ye come to look on it, becauſe ye cannot ſee a ſingle miniſtry in it; it was a wonder, that Antichriſt did not ſee this would de<g ref="char:EOLhyphen"/>ſtroy his way of adminiſtrations <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r him.</p>
+            <p>
+               <hi>Dr.</hi> Nor is here from this, 1 <hi>Cor.</hi> 12.4. any word of proof, but that there are ſeverall adminiſtrations to generall perſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: And what then? is therfore an Evangeliſt a diſtinct, ordinary, perpe<g ref="char:EOLhyphen"/>tuall Officer in the Church? <hi>O ſilly, ſilly weakneſſe!</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> Sir, take heed, leſt you come in the compaſs of thoſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, 1 <hi>Cor:</hi> 2.17. which are corrupters of the Word. Sir, how can theſe gifts belong to generall perſons, which are to be in every conſtituted Church ordinarily for which God hath deſigned ſe<g ref="char:EOLhyphen"/>verall adminiſtra<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s in the Word. Sir, your <hi>generall perſons</hi> is a tearm <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o generall to be uſed in controverſy: when you more par<g ref="char:EOLhyphen"/>ticularly expreſs your ſelf, I will more particularly anſwer you, if this do not ſuffice you.</p>
+            <p>P. 11. <hi>Mark:</hi> 6.7. <hi>Luk:</hi> 10.1. Chriſt ſends his forth two by two.</p>
+            <p>Dr. <hi>This is a proof like all the reſt;</hi> from the circumſtance of a fact, to argue a perpetuall inſtitution, is very weak: Chriſt ſends his Diſciples by two and two, and the miniſtry of the Goſpel is not a ſingle work: therfore, beſide Paſtors and Teachers, there muſt be Evangeliſts in ordinary, and perpetually in office: <hi>What a ſenſleſſe conſequence is this?</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> This act of Chriſt was brought only to prove againſt a ſin<g ref="char:EOLhyphen"/>gle miniſtry, as now uſed; the Church being not yet fully conſti<g ref="char:EOLhyphen"/>tuted.</p>
+            <p n="2">2. Whereas you make a great cry of nothing, with a, <hi>O Yes:</hi> this is proof like all the reſt, from the circumſtance of a fact. Sir, what if you had no more to convince you of your ſingle miniſtry? is not this enough? was not here the ſending of the Apoſtles and ſeventy to teach? according to which pattern, ſhould not you walk by, if you would walk in the truth? had <hi>Moſes</hi> more then the pattern, to do all his Tabernacle work by? Sir, was this only done in one, two? or were not all the eighty two ſo ſent forth, and ſo com<g ref="char:EOLhyphen"/>memorated by the Evangeliſts? ſure if the thing were ſo ſlight, as you make it, there would not have been that care to ſet it down there was. And as theſe now, ſo after they alwaies did, in the Hiſtorie of the <hi>Acts,</hi> go two or three together, from this their for<g ref="char:EOLhyphen"/>mer Commiſſion. Sir, if men would believe you, it were nothing
+<pb n="12" facs="tcp:135183:9" rendition="simple:additions"/> for you to make nothing of overcoming the truth, with branding it with ſenſleſſe conſequence, drawn by your ſelf, out of that was never intended by me: and ſo, if there be any ſenſleſneſſe, in the conſequence it is your own, and none of mine.</p>
+            <p>
+               <hi>P.</hi> 12. I ſhewed, why Chriſt ſent the Diſciples, and ſeventy, by two and two, and not by three; becauſe none were to officiate the Evangeliſts office, while Chriſt was living: and in this he was, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. And whereas I ſaid, I remember not that the Apoſtles are ſaid to Evangelize, during Chriſt's being on earth, Mr Doctor in his <hi>Scholia</hi> ſaith, <hi>This aſſertion is falſe;</hi> the twelve did Evangelize while Chriſt was alive, the text ſaith it expreſly, <hi>Luk:</hi> 9.6.</p>
+            <p>
+               <hi>Reſp:</hi> 1. I did not aſſert the thing, but ſaid, as I did remember; it is not ſaid, they did not: I, haſtily writing, did not examine it.</p>
+            <p n="2">2. That they did Evangelize, as the Church Evangeliſts did in conſtituted Churches, after Chriſt's reſurrection; I ſay, that the aſſertion, if Mr Doctor will have it ſo, is true, and the contrary falſe.</p>
+            <p>
+               <hi>P.</hi> 12. The time of gathering Churches was not yet come, &amp;c.</p>
+            <p>
+               <hi>Dr.</hi> Thoſe that became Diſciples to Chriſt, <hi>to what were they ga<g ref="char:EOLhyphen"/>thered? why, were not they a Church</hi> that were united to him by faith, as his members?</p>
+            <p>
+               <hi>Reſp:</hi> Mr Doctor may ſatisfie himſelf concerning theſe Queſti<g ref="char:EOLhyphen"/>ons, without my Anſwer: I wonder he uſeth a <hi>why,</hi> and <hi>what,</hi> about it.</p>
+            <p n="1">1. Were there not many a one with him by faith, that were not in publique Church Fellowſhip, or in Church Ordinances with him, as <hi>Lot, Job,</hi> and others before, not circumciſed? many in the Antichriſtian church, now are of Chriſt's inviſible church, <hi>Rev.</hi> 18.4. and no man will ſay, theſe were in a viſible church ſocie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y of Chriſt: why were they called out elſe? <hi>Nicodemus</hi> and others.</p>
+            <p n="2">2. The Holy Ghoſt will give another anſwer, <hi>Act:</hi> 1.4. they muſt tarry at Jeruſalem for the Holy Ghoſt, before they conſtituted churches: yea, in Judea and Jeruſalem, <hi>verſ:</hi> 4. and <hi>Eph:</hi> 4.8, 10, 11. will ſhew you: Chriſt went to Heaven, before he gave th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> gifts of church miniſtry to the church, to be miniſtred unto in a church way, as they after were to be adminiſtred.</p>
+            <p>
+               <hi>Dr.</hi> Chriſt declares, that <hi>M ſes</hi> miniſtry was at an end with <hi>John</hi> the Baptiſts time, <hi>Math:</hi> 11.12, 13. <hi>Luk:</hi> 16.16.</p>
+            <p>
+               <hi>Reſp:</hi> 1. Neither of theſe Scriptures ſay, that it was at an end:
+<pb n="13" facs="tcp:135183:9" rendition="simple:additions"/> but that it was; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>untill John,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c. from thenceforth the K<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngdom of Heaven is preached:</hi> Note, untill <hi>John</hi> there was none elſe but <hi>Moſes</hi> miniſtry, and that it was not utterly aboliſhed in <hi>John's</hi> time, or by <hi>John, Math:</hi> 23.1, 2. <hi>Jeſus ſaid to the Diſciples, and to the Multitude: The Scribes and Phariſees ſit in Moſes Chair: Whatſoever therfore they ſay unto you, do ye, &amp;c.</hi> This was in the laſt year of Chriſts miniſtry, and after <hi>John</hi> the Baptiſts death, and yet it is not abo<g ref="char:EOLhyphen"/>liſhed utterly; if it were dead, it was not buried.</p>
+            <p n="2">2. That churches were not conſtituted, ſee the Hiſtorie, <hi>Act:</hi> 6. Deacons are ſet up in the church, after 1 <hi>Cor:</hi> 6.1. the ruling Elder is ſet up in the church, and none before: after this, the Deaconeſſe, and things concerning the Kingdom, that is, the church admini<g ref="char:EOLhyphen"/>ſtrations were given them after Chriſts reſurrection, <hi>Act:</hi> 1.3. by eſpeciall direction.</p>
+            <p>
+               <hi>P.</hi> 12. It was groſſe, when the word, <hi>Church,</hi> was only taken for your places of aſſembly, &amp;c.</p>
+            <p>
+               <hi>Dr.</hi> The denomination of your place of meeting by the name, <hi>Church,</hi> when the <hi>continens</hi> is uſed <hi>pro contento,</hi> is not incongruous, but conſonant to Scripture, 1 <hi>Cor:</hi> 1.18. with 20, 22.</p>
+            <p>
+               <hi>Reſp:</hi> Sir, it is incongruous for a man to quarrel with one agrees with him; and to take the word, <hi>Church,</hi> in Scripture, only for a meeting place, is worſe: but I think I proved to your hand more clearly, or Mr <hi>Mead</hi> for me, that which you here aſſert in the ſame Book, p. 56. from 1 <hi>Cor:</hi> 11.22. But you were weary, ſpen<g ref="char:EOLhyphen"/>ding any more time and ink in the reading and correcting of this ſmoky piece; and ſo left off, before you came to the end, and ſaw it not: or rather, you dare not deal with that, as with this, it comes cloſer to your coyned government.</p>
+            <p>
+               <hi>Dr.</hi> Mixt Aſſemblyes do not make voyd the truth of the Church, if Gods Ordinances be obſerved therein, and the true Doctrine taught and received.</p>
+            <p>
+               <hi>Reſp:</hi> 1. This is but your ſaying they do not, it is little worth with thoſe argue againſt you; eſpecially, when it is againſt the truth.</p>
+            <p n="2">2. Your Hypotheſis is drawn a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> impoſſible, for God's Ordi<g ref="char:EOLhyphen"/>nances cannot be obſerved in mixed ſocieties.</p>
+            <p n="3">3. Shew me one church conſtituted of the Goſpel conſtitution, of a Nationall mixt ſociety, and I will ſhew you all others be the contrary conſtituted; and more then 100 years after, that were approved by approved Authors.</p>
+            <pb n="14" facs="tcp:135183:10" rendition="simple:additions"/>
+            <p>Pag. 12. There are to be three diſtinct Teachers in every Church.</p>
+            <p>
+               <hi>Dr.</hi> It is not clear, that theſe three are to be diſtinct and perpe<g ref="char:EOLhyphen"/>tuall in ordinary; <hi>all this is ſaid at random, and without ground.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> 1. Sir, it is as clear as Scripture can make them; yet as clear as they are, I cannot make your eies ſee them, the ſmoke be<g ref="char:EOLhyphen"/>ing on them: take away the ſmoke, and they will appear to be three diſtinct ordinary Teachers.</p>
+            <p n="2">2. That, that was ordinary in the Apoſtles time, that is to be or<g ref="char:EOLhyphen"/>dinary in every true conſtituted Church for ever; and it hath a Goſpel ground: but your ſingle miniſtry hath no foot for a foun<g ref="char:EOLhyphen"/>dation from Chriſt, but Antichriſt: you acknowledge Paſtors and Teachers, why have ye not them ſet up in your ſocieties? ſure it will not ſuit with the conſtitution of your Church, or with your profit, or ſomething.</p>
+            <p>Pag. 13. <hi>Galat:</hi> 2.9. <hi>James</hi> is Evangeliſt, <hi>Peter</hi> Paſtor, <hi>John</hi> Teacher.</p>
+            <p>
+               <hi>Dr. Theſe things are meer fancies,</hi> without any proof from Scri<g ref="char:EOLhyphen"/>pture, and altogether inconſiſtent with the Apoſtolicall charge.</p>
+            <p>
+               <hi>Reſp.</hi> 1. Sir, what means 2 <hi>Pet:</hi> 5.1. where <hi>Peter</hi> calleth him<g ref="char:EOLhyphen"/>ſelf, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; If not that in ſome conſtituted Church he was joyned with others in the miniſtry?</p>
+            <p n="2">2. Sir, in my Treatiſe, of <hi>The Reſurrection of faln Churches,</hi> I have proved by the teſtimony of <hi>Tertullian, Ireneus,</hi> and others, that the Apoſtles were the Elders of the Church of <hi>Jeruſalem;</hi> men whoſe teſtimony is to be received before all the teſtimony of the Preſ<g ref="char:EOLhyphen"/>byters living.</p>
+            <p n="3">3. Is it more inconſiſtent with theſe to do thus among the Jews, in the Mother Church, then with <hi>Paul</hi> to do theſe among the Gen<g ref="char:EOLhyphen"/>tiles, 2 <hi>Tim:</hi> 1.11. and with <hi>Barnabas, Peter</hi> and <hi>Iohn,</hi> with <hi>Philip</hi> at <hi>Samaria, Act:</hi> 8.14.25. and why not at <hi>Ieruſalem,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Doctor?</p>
+            <p>Pag: 13. That the Goſpel was preached in the Synagogue, as to mixt multitudes.</p>
+            <p>Dr. <hi>Theſe proofs are ſuch ſilly inferences,</hi> that it is tedious to reflect upon them, and examine them, <hi>they are even ridiculous.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> Sir, you are not the firſt have made a mock at the truth of the Goſpel; their diſputing, and reaſoning, differ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d from Church teaching, as a work of the Catechiſt: which when men were ſuffi<g ref="char:EOLhyphen"/>ciently wrote on, were ſeparated from the multitude to the belie<g ref="char:EOLhyphen"/>vers ſociety; as in the <hi>Acts</hi> 18.4, 7, 11. and is a thing deſerves
+<pb n="15" facs="tcp:135183:10"/> more ſtudy, then you are willing to ſpare about it, becauſe it is op<g ref="char:EOLhyphen"/>poſite to your preſent deſigns.</p>
+            <p>Pag: 14. the ſecond part of miniſtry, &amp;c. L. 1.</p>
+            <p>Dr. This doth contradict that which he hath been ſaying all this while; his argument formerly taken from the order of words; for if the Doctor be the ſecond part of the miniſtry, next the Evan<g ref="char:EOLhyphen"/>geliſt, then the Paſtor is not the ſecond to the Evangeliſt: but theſe <hi>are groundleſſe whimſeys.</hi>
+            </p>
+            <p>
+               <hi>Reſp:</hi> In the end of the page before, I ſhewed, from the words of Chriſt, <hi>Math:</hi> 23.11. <hi>He that is greateſt amongst you, ſhall be your ſervant:</hi> Where I obſerved, Chriſt ſhews, the Evangeliſts work was to make way for the Church conſtitution, and ſo miniſtred to the Teacher and Paſtor: And when the Church came to be conſtituted, and that there were men fitted for the Evangeliſts miniſtry, then ſome other was conſtituted to do that work without the Church, and the Evangeliſt did miniſter the perfecting miniſtry to the ſtrong men in Chriſt, in which work the Paſtor is next him; though in the other, his miniſtry preceded the Doctor: And this <hi>is the ground<g ref="char:EOLhyphen"/>leſſe whimſey,</hi> which was the practice of the Apoſtles, in their ordi<g ref="char:EOLhyphen"/>nary miniſtry: <hi>Paul</hi> taught at <hi>Corinth,</hi> before he baptized, and then baptized: and when the church is conſtituted, he leaves baptizing, and that miniſtry, and Evangelizeth, 1 <hi>Cor:</hi> 1.14, 17. <hi>Act:</hi> 18.4, 7, 8.</p>
+            <p>Pag: 14. Of <hi>Iames</hi> and <hi>Iohns</hi> Epiſtle.</p>
+            <p>
+               <hi>Dr.</hi> The difference of <hi>Iames</hi> and <hi>Iohns</hi> ſtiles, the one reproving of vices and faults ſharply, and the other perſwading powerfully to the improvement of grace, is no argument of any ſuch thing as he would have inferred, that he was a Doctor to the Jewiſh church in particular: <hi>But indeed theſe things are ſo weak and ſilly, that they are not worth the anſwering.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> See how this ſilly man makes the <hi>difference of the doctrine,</hi> to be only in the <hi>ſtile,</hi> as <hi>if the condition of the perſons required it not:</hi> as if any man in that ſociety, and to that people <hi>Iohn</hi> taught, might have taught that Doctrine; and applyed there, that <hi>Iames</hi> taught <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, <hi>è contrario, Mark:</hi> 3.17. was not <hi>Iohn,</hi> as well as <hi>Iames,</hi> the ſon of thunder? Think you, among the Apoſtles was no other conduct of ſpirit, then in your confuſed Babyloniſh teaching? See if any Epiſtle writ to any church, be like this of <hi>Iames:</hi> Shew any ground from <hi>Iames</hi> Epiſtle, that it was written to a conſtituted church: I think I ſhall ſhew you ſhortly 20. why it was not.</p>
+            <pb n="16" facs="tcp:135183:11"/>
+            <p>
+               <hi>P.</hi> 14. The whole Doctrine is for Babes.</p>
+            <p>
+               <hi>Dr.</hi> The Apoſtle writes to young Men, and to Fathers, as well as to Babes: how then is the whole Doctrine for Babes alone? <hi>but this is like all the reſt.</hi>
+            </p>
+            <p>
+               <hi>Reſp:</hi> 1. The Apoſtle, as Apoſtle, had an extraordinary call, to write to Fathers and young Men of the Church, as wel as Babes.</p>
+            <p n="2">2. That he writes to theſe, is contained all in <hi>chap:</hi> 2. <hi>verſ:</hi> 14. Now what, and how much of Doctrine it contains, that this va<g ref="char:EOLhyphen"/>pour ſhould come from the Doctor, I know not. <hi>Chap:</hi> 2. <hi>verſ:</hi> 1. he begins with, Little Children; <hi>verſ:</hi> 12. and <hi>verſ:</hi> 18. <hi>chap:</hi> 3. <hi>verſ:</hi> 7. <hi>verſ:</hi> 18. <hi>chap:</hi> 4. <hi>verſ:</hi> 4. <hi>chap:</hi> 5.21. and in all the Epiſtle not a word more, but in <hi>chap:</hi> 2. <hi>verſ:</hi> 13, 14. of young Men, or Fathers at all.</p>
+            <p>
+               <hi>P.</hi> 14. The third part of Miniſtry, or ſecond of the Church Mini<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ry.</p>
+            <p>Dr. This notion of diſtinguiſhing the miniſtry, and its parts, <hi>in abſtracto,</hi> from Church miniſtry, to make the third in the one, the ſecond in the other, <hi>is another whimſey which he frames to himſelf.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> Was there ever man, in ſo vile a manner, would ſo ſecretly have wounded the truth, and a mans reputation, by reproach, as this man endeavours? calling my diſtinguiſhing the Miniſtry with<g ref="char:EOLhyphen"/>out the Church, from that within the Church proudly, <hi>Notions and whimſeys:</hi> I received baſe tearms in his Letters before, but I an<g ref="char:EOLhyphen"/>ſwered them in mildneſſe and humilitie; but this ſecret trechery I cannot but take notice of.</p>
+            <p n="1">1. Where he ſaith, that I make the third in the one, the ſecond in the other, is a whimſey of his own head, if there be any whimſey in it, and none of mine.</p>
+            <p n="2">2. If the man were ſenſible, he would underſtand, that <hi>Paul,</hi> 2 <hi>Tim:</hi> 2.11. was a Preacher, an Apoſtle, and a Teacher of the Gen<g ref="char:EOLhyphen"/>tiles.</p>
+            <p n="1">1. See here is a Preacher before the Apoſtle, not in dignity, but did in miniſtry precede the Apoſtle, he being the firſt in th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Chu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch miniſtry, and the Teacher the laſt, as in <hi>Eph:</hi> 4.11. which being the extreams of the Church miniſtry, comprehend the reſt of Prophet, Evangeliſt and Paſtor under them; which I dare to maintain a<g ref="char:EOLhyphen"/>gainſt Mr Doctor, by word or writing, and prove his language to be but little better then blaſphemy and railing.</p>
+            <p>
+               <hi>Dr.</hi> That Saint <hi>Peters</hi> ſecond Epiſtle was written to the Jews of his particular charge in <hi>Jeruſalem,</hi> is contrary to <hi>Peters</hi> own words,
+<pb n="17" facs="tcp:135183:11" rendition="simple:additions"/> as in 2 <hi>Pet.</hi> 3.1. it appears the ſecond Epiſtle was written to whom the firſt was, and it is clear the firſt was not written to t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of <hi>Je<g ref="char:EOLhyphen"/>ruſalem,</hi> but to thoſe of <hi>Pontus,</hi> &amp;c. 1 <hi>Pet.</hi> 1.1. <hi>So that to pleaſe him<g ref="char:EOLhyphen"/>ſelf in theſe whimſies, he care not what he ſaith, or what conjectures he makes contrary to the text: ſure when he wrote this, his whimſey did blind him ſo, that he did miſtake the one Epiſtle for the other, for it is in the firſt Epiſtle, chap.</hi> 1. <hi>verſe</hi> 2. <hi>that he gives them the title of the Elect, and the diſperſed are the Elect; by this it appears, with what careleſſe fantaſticalneſſe this is writ<g ref="char:EOLhyphen"/>ten.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> 1. Fri nd, in my Epiſtle to the Reader, I let him know, of which he alſo in a Letter wrote me, and rebuked me, for doing this thing in haſte, yet ſee with what bitterneſſe he carps at a mi<g ref="char:EOLhyphen"/>ſtake, of putting the Elect to the ſecond Epiſtle, which is in the firſt.</p>
+            <p n="2">2. That I may when I meet with Truth honour it, though it ſhould have come from a de<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>l, I do acknowledge the miſtake, and the pettiſh man never ſpake any thing that was conſiderable but now in this: But</p>
+            <p n="1">1. I commend to be conſidered, where an Epiſtle formerly writ<g ref="char:EOLhyphen"/>ten m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y not be abſent by the malice of the <hi>Jewes,</hi> as one ſeemes to be of the <hi>Corinths,</hi> 1 <hi>Cor.</hi> 5.9.</p>
+            <p n="2">2. Leſt any man ſhould thinke I ſhould object this, without ground to uphold my whimſies and fantaſies, pray obſerve 2 <hi>Pet.</hi> 3.15. he mentions the Epiſtle of <hi>Paul</hi> to them, which was that of the <hi>Hebrews,</hi> which without queſtion was written to the Church at <hi>Jeruſalem,</hi> Heb. 13.23. <hi>if Timothy come ſhortly I will ſee you,</hi> which was not the diſperſed <hi>Jewes</hi> in theſe ſeveral parts of the world, but the Church at <hi>Jeruſalem,</hi> of which, after moſt of his Epiſtles writ<g ref="char:EOLhyphen"/>ten from <hi>Rome</hi> to the <hi>Gentiles,</hi> he writes to <hi>Galatia,</hi> and is going for <hi>Jeruſalem</hi> with <hi>Titus,</hi> 18 years after his converſion; nor did he teach the Goſpel but to the Church of <hi>Jeruſalem</hi> amongſt the <hi>Jews, Heb.</hi> 3.1. he cals them partakers of the heavenly call, <hi>Acts</hi> 18.6. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </p>
+            <p n="3">3. <hi>Peters</hi> moſt aboad was at <hi>Jeruſalem,</hi> as he that will but obſerve the Hiſtory of the <hi>Acts</hi> m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y wel find it, and ſo was <hi>James;</hi> it being agreed that <hi>James, Peter, and John</hi> ſhould miniſter to the Circumci<g ref="char:EOLhyphen"/>ſion.</p>
+            <p n="4">4. <hi>Timothy</hi> it may be could not go up with him at that time, for he queſtions where he would or not, <hi>Heb.</hi> 13.23. and he ſeemes to ſpeak to a particular People, and of a particular place.</p>
+            <p>
+               <hi>P.</hi> 15. The whole Epiſtle doth concerne ſuch onely as are exerciſed.</p>
+            <pb n="18" facs="tcp:135183:12" rendition="simple:additions"/>
+            <p>
+               <hi>Dr.</hi> This kind of arguing from ſome words to infer ſuch conſe<g ref="char:EOLhyphen"/>quences <hi>is ſo ſilly and frivolous, that a man can ſcarce conſider it with pati<g ref="char:EOLhyphen"/>ence.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> I ſay, <hi>It is the doctrine of the whole Epiſtle,</hi> he ſaith, this <hi>is only of ſome words:</hi> he ſhould do well to ſhew that the Epiſtle doctrinally concerns excerciſed Chriſtians, or that joy it is in ſome one, he begins only with exhortation to grow unto grace, and ends with the ſame, the whole matter tending thereunto; yet he cries, <hi>O ſilly and frivolous,</hi> as having nothing elſe to ſay for himſelfe, in which he ſounds like an empty barrell.</p>
+            <p>
+               <hi>Dr.</hi> Here we have a fourth part of Church miniſtry, even now we had but the ſecond, where is then the third of Church miniſtry? then he ſaid, before there were but three diſtinct perſons to be Tea<g ref="char:EOLhyphen"/>chers in the Church, and now he brings in four.</p>
+            <p>
+               <hi>Reſp.</hi> 1. Before you have the ſecond Church miniſtry as you confeſſe.</p>
+            <p n="2">2. You inquire for third.</p>
+            <p n="3">3. Before you ſay there were but three diſtinct perſons to be Tea<g ref="char:EOLhyphen"/>chers in the Church.</p>
+            <p n="4">4. I have deſired you not to take exceptions at the corruptneſſe of the Copy, and yet how the good man catches at a flie, will not any underſtanding men that reads it, ſay you want but matter to carp at, and to raile? a man would ſcarce believe your empty tearmes when you paſſe by things you know not how to except againſt, or what to ſay unto; to ſay they are things not to be con<g ref="char:EOLhyphen"/>ſidered: <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> predeceſſors part you act to the life, that was done by the <hi>Spaniſh Cardinall</hi> to the <hi>Pope,</hi> on the Letter of <hi>Groſted,</hi> as at leiſure you may peruſe, in the book of <hi>Acts and Monuments,</hi> they were not ſo wiſe as you therein, nor ſo ſubtile, as appears in the carri<g ref="char:EOLhyphen"/>age of this buſineſſe.</p>
+            <p>
+               <hi>Dr.</hi> It contradicts alſo the former order aſſerted, <hi>viz.</hi> that the Evangeliſt is before the Paſtor and Teacher, and now he is placed behind them; ſo the Evangeliſt is double, both firſt, and laſt: <hi>theſe intricacies do ſhew that all theſe things are written a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> random, without any judgement, or conſideration.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> 1. That the Evangeliſt is placed behind the Paſtor and Teacher, is, becauſe he is here laſt handled.</p>
+            <p n="2">2. He that will enumerate the Church officers, and begin with the Apoſtles, and goeth downward, comes laſt to the Doctor: but he that begins with the Doctor, and goeth upward in order to the
+<pb n="19" facs="tcp:135183:12" rendition="simple:additions"/> Apoſtles, doth not deſtroy the Goſpel order; for as in Nature a man is firſt a child before a man, though in honour a man is men<g ref="char:EOLhyphen"/>tioned before a child: ſo in the ſpirituall eſtate of Chriſtians like<g ref="char:EOLhyphen"/>wiſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p n="3">3. As for that the Evangeliſt is ſaid to be double, I have already anſwered it to an objection already made there-againſt.</p>
+            <p>
+               <hi>P.</hi> 16.</p>
+            <p>Dr. <hi>All theſe following conjectures are ſo ſilly, and ſo little worth the conſi<g ref="char:EOLhyphen"/>deration, that no wiſe man will ſpend time to refute them.</hi>
+            </p>
+            <p>
+               <hi>Reſp</hi> Sir, I did not ſpend the hundreth part of time to refute your prudential Presbyterian Government, which hath but little of the Goſpel patern in it at all; Sir, I tooke it a broad, call your brethren to put it together againe if you can, I provoke you to it, and do not blind the eyes of the world, and ſay, They are ſilly things, I will charge you with it: your Wit and Learning cannot do it, and therefore to ſave your credit you ſlight it: but this will not ſerve you alway, there is a day comming, God will call you to an accompt for your Stewardſhip, <hi>Luke</hi> 16.2.</p>
+            <p>
+               <hi>P.</hi> 16. on <hi>Coloſ.</hi> 3.10.12.15.</p>
+            <p>
+               <hi>Dr.</hi> What he meanes by this example, and to what purpoſe it is alledged, I know not, but I am ſure he makes inferences from the Apoſtles words, <hi>which are meer fancies,</hi> and no wayes conſiſtant with the Apoſtles mind in this place alledged; for the Apoſtle doth not ſpeak of the <hi>estate of the Church as it was a ſociety,</hi> but of the duty of e<g ref="char:EOLhyphen"/>very beleever as he is a member in Chriſt.</p>
+            <p>
+               <hi>Reſp.</hi> 1. For the alledging it, I did it to that purpoſe before I ever read <hi>Dionyſius</hi> that he doth, who ſhall tell you for me why I al<g ref="char:EOLhyphen"/>ledged it; <hi>Dionyſius</hi> chap. 6. <hi>Eccl. Hierar. prioris autem veſtis poſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>io alte<g ref="char:EOLhyphen"/>riuſque aſſumptio migrationem illam à media vita licet ſacra, ad perfectionem ſignificat ſicut in divina regeneratione promotionem judicabat a purgata vita ad contemplautem illuminan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>emque habitum illa veſtis caudentis immutatio:</hi> This was a received truth, when Presbyterian Government, as now it is, was hid in the bottome of that bottomleſſe pit.</p>
+            <p n="2">2. That the Church here is ſpoken of, as to a Society, I will maintaine according to my brief Analiſis and expoſition, made on the whole Epiſtle, in my Treatiſe of <hi>The Reſurrection of fallen Chur<g ref="char:EOLhyphen"/>ches,</hi> as is made to appear, which I provoke you to object againſt if you can.</p>
+            <p>
+               <hi>P.</hi> 17.</p>
+            <p>
+               <hi>Dr.</hi> Suppoſe all theſe in the Paragraphs to be true, how will the
+<pb n="20" facs="tcp:135183:13" rendition="simple:additions"/> inference be made good, that an Evangeliſt is a perpetual and ordi<g ref="char:EOLhyphen"/>nary miniſtry in the Church.</p>
+            <p>
+               <hi>Reſp.</hi> 1. Methinks you ſhould deal honeſtly with the truth, and ſay they are true, or ſhew wherein they are falſe, to what purpoſe is your arguing in this kind elſe?</p>
+            <p n="2">2. How the inference will be made good, that the Evangeliſt is a perpetual ordinary officer, lieth at the Aſſembly door proved in my Letters, waiting when you wil be at leiſure to give them an Anſwer, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> eſpecially in that particular we have a proverb, <hi>no man is ſo blind as he that will not ſee,</hi> you need not enquire how, Mr Doctor.</p>
+            <p>P. 17. 1 <hi>Theſ.</hi> 2.1. Our entrance.</p>
+            <p>
+               <hi>Dr.</hi> From the particle <hi>(our)</hi> to infer, were miniſters joyned with him is no true ground, the Apoſtle ſpeaks of himſelf alone in the <hi>plurall number</hi> in many places, 2 <hi>Cor.</hi> 10.1, 2, 3, 4. and chap. 1. <hi>v.</hi> 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, and elſewhere.</p>
+            <p>
+               <hi>Reſp.</hi> 1. That the Apoſtle in this place had others joyned with him is clear, <hi>Eph.</hi> 2.19. <hi>Paul, Silvanus, Timothy,</hi> are thoſe he calleth <hi>us,</hi> and <hi>our,</hi> in the whole Epiſtle.</p>
+            <p n="2">2. The Apoſtle ſpeakes indeed himſelf but for <hi>Timothy</hi> and him<g ref="char:EOLhyphen"/>ſelf, <hi>Timothy</hi> is joyned with him.</p>
+            <p n="3">3. By that chap. 1. with that whole le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie of verſes, in <hi>our</hi> is the Church mentioned, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as in <hi>we, Timothy</hi> and <hi>Paul,</hi> in verſe 1. Which proves, he had others joyned with him, and reaſon and ſence will tell, wherein miniſters are one, in the Scripture ſence.</p>
+            <p>P. 18 Apply hence we may, &amp;c.</p>
+            <p>
+               <hi>Dr.</hi> From the premiſes, you may as wel conclude, that there is a four-fold, or five-fold adminiſtration in the miniſtry: for if the number of <hi>Pauls</hi> co-adjutors be the medium of the argument, then ſo many helpers as he had, ſo many adminiſtrations there are: <hi>hence it is clear you are an ex<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reamly weake man.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> Sir, would it not be a wonderful ſhame, that ſuch a ſtronge man, like that Philiſtime, ſhould be overcome by weak means? nay, weakneſſe it ſelf; Sir, if you wil not boggle with the truth, I wil mainetaine, that the Apoſtles helpers are the <hi>medium</hi> of the argu<g ref="char:EOLhyphen"/>ment, ſo that you underſtand it of ſuch, as at one and the ſame time, and in one Church only did help him in the Miniſtry, but who would think you would take all <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his helpers in ſeveral Churches, to be accounted of as in one Church, doe you <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the word in ſimplicity, and Godly ſincerity? now I appeal to God and your conſcience in theſe things.</p>
+            <pb n="21" facs="tcp:135183:13" rendition="simple:additions"/>
+            <p>P. 18. Comming to ſhew how the Extraordinary, and Or<g ref="char:EOLhyphen"/>dinary Adminiſtrations differ.</p>
+            <p>
+               <hi>Dr. Haec omnia gratis dicta,</hi> and doe not con<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> with that which hath been ſaid formerly.</p>
+            <p>Reſp. <hi>Et tibi gratis conceſſa,</hi> for before, I only ſpake of the ordina<g ref="char:EOLhyphen"/>ry Church Miniſtry, now of ordinary and extraordinary alſo, and ſo you are never the wiſer.</p>
+            <p>At firſt, Chriſt adminiſtred to Apoſtles, Apoſtles and Prophets to Evangeliſt, Paſtors and Teachers; Evangeliſts to men, Paſtors to youth, Teachers to infants.</p>
+            <p>
+               <hi>Object.</hi> You inſerted not the Paſtor, and his adminiſtration.</p>
+            <p>
+               <hi>Reſp.</hi> As the Apoſtle 2 <hi>Tim.</hi> 1.12. putting downe the two ex<g ref="char:EOLhyphen"/>treams of the Church Miniſtry comprehends the reſt, ſo in the firſt and laſt of the ordinary Church miniſtry is comprehended the middle.</p>
+            <p>P. 19.</p>
+            <p>
+               <hi>Dr.</hi> Theſe alluſions are no ground for a divine inſtitution, which at all hath not been ſhewed. <hi>Ergo,</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> Alluſions, nor nothing beſides, are any thing with you, that ſerve you not, <hi>Rom.</hi> 2.20. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, where the Babe is under the Teachers miniſtry or adminiſtration, the Pa<g ref="char:EOLhyphen"/>ſtor helps on to perfect us, as youth, that under the adminiſtration of the Evangeliſts miniſtry we may be men in Chriſt, <hi>Eph.</hi> 4.11.12.13. applied to the whole Church miniſtry.</p>
+            <p>P. 21. <hi>John</hi> 21.15, 16, 17.</p>
+            <p>Dr. <hi>This is like the reſt of your arguments, to find Miſteries where there are none, and to build arguments upon them, is all along your way;</hi> it may be granted, and is a truth, that there is a diſtinction between Lambs and Sheep, and between the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> feeding and feeding of Sheep, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>differunt modo: the firſt is properly to feed them with meat, the other rule and guide them;</hi> but all theſe duties are recommended to one and the ſame man, and this inſtalement of <hi>Peter</hi> in his office by ſufficient grounds to infer that which you would gather from thence, in the ſame Paſtoral and Doctrinal charge, and this is to be done without the <hi>coyning of a new office.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> Mr. Doctor, you muſt begin with an O yes, ſtill, for fear leaſt no man would not heed what ye ſay; and did they heed you rightly, they would take heed how they read your writings, I hope you are more juſt in your caſes of conſcience.</p>
+            <p n="1">1. You acknowledge part of the truth, but not all, here are
+<pb n="24" facs="tcp:135183:14"/> three ſorts expreſſed, and differenced clearly in their feeding, why do not you ingeniouſly confeſſe it, or deny it by argument? but you confeſſe only what will ſerve your owne turne, this will not availe in the day of Chriſt.</p>
+            <p n="2">2. You have two ſorts of feeding, the one with meat, the other with rule, yet both ſorts are fed alike; but Sir, where is the third? what, is it, or is it not in the Text? or are you not willing to have it there, or known it is there? and then the Lambs are fed with Doctrine, Sheep with rule.</p>
+            <p n="3">3. Theſe are recommended to one man, but was he not an ex<g ref="char:EOLhyphen"/>traordinary officer? and were they not ſeveral adminiſtrations gi<g ref="char:EOLhyphen"/>ven unto him?</p>
+            <p n="4">4. If I prove the office from the Scripture by inſtitution, practiſe, and continuance, how can you ſay it is a new coyned office? you have not one of theſe to ſhew for your ſingle Nationall Church mi<g ref="char:EOLhyphen"/>niſtry, in all the book of Chriſt; yea, in the Name of Chriſt, ei<g ref="char:EOLhyphen"/>ther prove your call and miniſtry, or lay it downe, or this will be a witneſſe againſt you at the laſt day.</p>
+            <p>Dr. <hi>If this be your cleareſt proof, it is clear you have no proof at all, but make your fancy, and wrong application of the Text, all your proof; this proves no more, then that</hi> Peter <hi>was fully re-inſtalled unto his office, and that not<g ref="char:EOLhyphen"/>withſtanding his threefold deniall, he was againe thrice admitted to his charge, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd to all the objects and parts of it.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> Sir, to all underſtanding men, you clear up the truths of my Treatiſe, and bring a darkneſſe on your ſelfe and judgement, what, twelve moneths time to find out <hi>Peters</hi> re-inſtalement, and to put in a few empty lines, and to put it in againe and againe? you ſhould have put it in a little further off, if that were it you ai<g ref="char:EOLhyphen"/>med at: but Sir, pray what do you make of <hi>Peter?</hi> a Pope indeed? or I pray Sir tell me, what expreſſe Scripture have you to prove that <hi>Peter</hi> loſt, or was put out of his Apoſtleſhip? or if you will, his Biſhops See, that he was now re-inſtalled, and that nothing elſe but his three-fold re-inſtalment muſt be underſtood in this place; I believe you had this from ſome Popiſh Prieſt or Poſtill; pray Sir, at the call of any of the Apoſtles, had they a three-fold inſtale<g ref="char:EOLhyphen"/>ment as you here ſet downe? if not, why ſhould they have it at their re-inſtalment? had Chriſt prayed that <hi>Peters</hi> faith ſhould not faile before he fell, and ſhall his Epiſcopacy? Sir, I know none that loſt his Epiſcopacy, but <hi>Judas,</hi> of the Apoſtles; you are in a Po<g ref="char:EOLhyphen"/>piſh dream, the Lord awaken you; are there ſeveral feedings, of
+<pb n="23" facs="tcp:135183:14" rendition="simple:additions"/> which one ſort are fed with rule only (good Mr Doctor?)</p>
+            <p>P. 22. 2 <hi>Cor.</hi> 6.1.</p>
+            <p>
+               <hi>Dr.</hi> The Apoſtles meaning is, that men worke together with God, that is, every miniſter is in his own work ſubordinate unto God, it is then impertinent to make this inference, <hi>it is not the work of one man alone, many men may work in one and the ſame worke, and one may have diverſe workes as the objects differ, one Shepheard ma<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> at one time feed both Lambs and Sheep.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> Sir, Hereunto I have not had 14 houres time to copy out your breviary, and returne you this Anſwer, in a little longer time I ſhould deal better with you; but any rational man that wil look on the Text, and ſee your falaciouſneſſe, may tract you and know you; you ſay the meaning is, that men worke tog<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther.</p>
+            <p n="1">1. What men, 1 <hi>Cor.</hi> 1.19. are they not we <hi>Paul, Silvanus</hi> and <hi>Timothy?</hi> or what were they?</p>
+            <p n="2">2. Where did they work? was it not in the Church of <hi>Corinth?</hi>
+            </p>
+            <p n="3">3. How did they work? was it not together in miniſtry? Now to this you ſeem to agree: but then after, in your after expoſition, becauſe you feared the former, like fire that might burn your dou<g ref="char:EOLhyphen"/>ble doctrine, you fly to an expoſition quite contrary to truth, that ſerves your ſelfe, every eie may ſee where you were going; and <hi>as for part of the inferences, they are like your doctrine, corrupt, and none of mine,</hi> it is your chief art and skill to man inferences, you make none good of your owne, nor deduce thoſe honeſtly mine.</p>
+            <p>P. 23. He that plants, and he that waters, are one, 1 <hi>Cor.</hi> 3.8.</p>
+            <p>
+               <hi>Dr.</hi> By one in this place is not meant ſo much the miniſtry, <hi>as the efficacy and vertue thereof, that is, they are as to the bringing forth of the effect, as one thing that is of no efficacy, but only outward inſtruments &amp; ſervants of God.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> 1. I cannot but admire how men do befoole themſelves, when they fight againſt the truth; ſaith he, they are as to the bringing forth of the <hi>effect, as one</hi> and the ſame thing, <hi>that is, of n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ef<g ref="char:EOLhyphen"/>ficacy;</hi> it is learnedly cleared.</p>
+            <p n="2">2. Conſider this is firſt ſpoke of <hi>Paul</hi> and <hi>Apollo,</hi> and here relates to them and their miniſtry, in the <hi>pronoun, quis,</hi> and after more clearly in the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that is, <hi>unum <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>miniſterium;</hi> againe, every one hath his own reward, according to his owne labour, <hi>ver.</hi> 9. we are labourers together; now judge, if here be not intended onely Miniſters and Miniſtry, and the Doctors gloſſe, very ſpurious and corrupt, worſe then whimſicall.</p>
+            <p>P. 23. 2 <hi>Cor.</hi> 1.15. That in no conſtituted Church, we read
+<pb n="22" facs="tcp:135183:15" rendition="simple:additions"/> of no more but three in fellowſhip of Miniſtry ordinarily.</p>
+            <p>
+               <hi>Dr.</hi> Theſe are weake conjectures, and can make no ſuch in pro<g ref="char:EOLhyphen"/>bability, as are inferred on them.</p>
+            <p>
+               <hi>Reſp.</hi> I beſeech the Reader, ſee I propoſe texts of Scripture, and affirme that in no conſtituted Church were more, or ſhould be leſſe, the Doctor cannot diſprove it by the word; that confirms it abun<g ref="char:EOLhyphen"/>dantly, and therefore he ſhakes it off with a conjecture only: pray ſee of what authority the Scripture is with theſe kind of men, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Church patterne in the Goſpel.</p>
+            <p>P. 23. We do that never Apoſtle did doe.</p>
+            <p>
+               <hi>Dr.</hi> Was not <hi>Peter</hi> bound by the charge that was given him, to feed both Lambs and Sheep, as well the young as the old, by giving them their meat, and ruling them?</p>
+            <p>
+               <hi>Reſp.</hi> 1. As Apoſtle, he had this charge, but this warrants not us in our practiſe, being ord<gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> miniſters, by a ordinary call.</p>
+            <p n="2">2. The Apoſtles had <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uthority for all, that from them authority may be communicated to others in an ordinary way.</p>
+            <p n="3">3. Ordinarily (and ſo I intend) no Apoſtle did the whole mi<g ref="char:EOLhyphen"/>niſtery; what meanes the mentioning of their co-workers ſo oft elſe? and that of <hi>Acts</hi> 10.48.</p>
+            <p>Dr. <hi>I ſay, that every one that is called to the Miniſtry, is bound to do all that God doth inable him to doe, both to Teach and to Rule, as the occaſions do require his ſervice.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> 1. You have Mr Doctor, a <hi>dixi</hi> for it, if we take your words to be divine Oracles, it is enough; but methinks it were more like your ſelfe, to ſay, thus ſaith the Lord; not I, as faithfull <hi>Paul</hi> ſaid; or elſe ſay, thus ſai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I, and not the Lord; but you will ſay, I ſay this now, and anon you will ſay, God ſaid; but if God had ſaid ſo, you would not have weakened your cauſe ſo as to ſay, I ſay, 1 <hi>Pet.</hi> 4.10. as every man hath received the gift, <hi>that is, the miniſte<g ref="char:EOLhyphen"/>rial call from the Church,</hi> ſo miniſter the ſame, <hi>not other gifts by your leave;</hi> of this I writ fully in my Letters, I wonder I do not hear from you; I fear ſome private papers in the darke, as this, are ſent abroad by you, to catch ſilly ſoules withall.</p>
+            <p>
+               <hi>Dr.</hi> If God ſend forth fellow-labourers <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, they are to do their work <hi>joyntly and diſtinctly,</hi> according to their Talent which they ſhall have, and ſhall make them fitteſt for ſervice; the Apo<g ref="char:EOLhyphen"/>ſtle, 1 <hi>Tim:</hi> 3. <hi>Tit:</hi> 1. where he expreſly doth inſtitute the appoynt<g ref="char:EOLhyphen"/>ment of Church Officers, doth name none but Presbyters and Dea<g ref="char:EOLhyphen"/>cons; and under that name, comprehends <hi>Paſtors and Teachers, not
+<pb n="25" facs="tcp:135183:15" rendition="simple:additions"/> in diſtinct, but in the ſame perſons; although, if God ſend forth more labourers,</hi> then are in a particular Vineyard, they may apply themſelves di<g ref="char:EOLhyphen"/>ſtinctly more to one then to the other, as their Talents make them fitteſt for ſervice: but if there be no more then one alone ſent forth, he is <hi>to deal, as the ſeverall objects, and occaſions, require his ſer<g ref="char:EOLhyphen"/>vice.</hi>
+            </p>
+            <p>
+               <hi>Reſp:</hi> Sir, your <hi>joyntly,</hi> which you allow to the Goſpel labourers, is, of neceſſity you cannot deny that, for the Scriptures are ſo clear; (but your leaven lyeth hid) yea, you allow they muſt do it <hi>di<g ref="char:EOLhyphen"/>ſtinctly</hi> alſo; but joyntly in a Nationall Church, diſtinctly in a Parochiall; otherwiſe it cannot be underſtood in your ſocieties: Did <hi>Paul, Sylvanus, Timothy,</hi> do their work thus Nationally, Mr Do<g ref="char:EOLhyphen"/>ctor? You have not theſe in any Church, who ſhould have them in all. And after again, you ſay the word, Presbyter, comprehends Paſtors and Teachers, not in diſtinct, but the ſame perſons: I hope when you read this again, you will be aſhamed of it. As for your conceit of a particular Vineyard, and applying themſelves more to one then another, hath no ground or proof from Scripture; and then you tell us of the ſending out of <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Labourer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, Scripture ſpeaks of no ſuch thing.</p>
+            <p>
+               <hi>P.</hi> 25. The true and falſe miniſtry are diſtinguiſhed from the differing materials, 1 <hi>Cor:</hi> 3.12.</p>
+            <p>Dr. <hi>This is your ordinary fault,</hi> to lay too much weight upon Me<g ref="char:EOLhyphen"/>taphoricall and Allegoricall ſpeeches.</p>
+            <p>
+               <hi>Reſp:</hi> Sir, the Kingdom of God was ſet out in Allegories, and is in eſpeciall manner, if ever to be known, to be known from them: Satan now, to keep this Kingdom hid, hath taught men a long time to deny any argument to be deduced from them to prove any thing at all by: But Sir, why not from them? Is it not the Word of God? And is not the Kingdom, and myſteries thereof, laid up in them? It cannot be denied, but thence a diſcovery comes to be made againſt the preſent practice; <hi>Indeed, if you will ſay, becauſe they are not underſtood, we cannot argue from them, it were ſomething, and ſo may be ſaid of all the Scriptures.</hi>
+            </p>
+            <p>Dr. <hi>You ſtretch the matter beyond the Apoſtles ſcope, and ſo you do conti<g ref="char:EOLhyphen"/>nually in all this diſcourſe.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> Mr Doctor, <hi>Lis coram judicibus eſt.</hi>
+            </p>
+            <p>
+               <hi>Dr.</hi> It is clear, the Apoſtle doth preſuppoſe that the ſame man may at one time build hay; at another, ſtubble; and at another, wood; and the ſame man may build gold, and ſilver, and precious
+<pb n="26" facs="tcp:135183:16" rendition="simple:additions"/> ſtones at different times; nay, and this is clear, that at one time a man may build gold and ſilver, and at another hay and ſtubble; <hi>You ſtretch the Apoſtles words beyond his ſcope, and rack them to another purpoſe then the Holy Ghoſt doth intend: and then in all this following diſcourſe, you make upon this ſandy ground a building of fantaſticall conjectures to prove your poynt.</hi>
+            </p>
+            <p>
+               <hi>Reſp:</hi> Mr Doctor, your ſingle ſtubble miniſtry may ſome of them not at one time build gold and ſilver; and at another, hay and ſtubble; but gold, ſilver, hay, wood and ſtubble, at o<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> teaching, for ought I know. Sir, the queſtion hangs on theſe.</p>
+            <p n="1">1. Where there were a ſingle miniſtry at <hi>Corinth,</hi> to do this, or not? or your ſuppoſition is nothing, and your doctrine falſe and Antichriſtian, that is worſe, 1 <hi>Cor:</hi> 1.12. and <hi>chap:</hi> 4.6, 15. <hi>chap:</hi> 12.9.</p>
+            <p n="2">2. Where <hi>Paul,</hi> in his Epiſtle, doth not endeavour to deſcribe the falſe Church miniſtry, and their work, from the true, and their work, both miniſtring in <hi>Corinth,</hi> or not? as in his ſecond Epiſtle, written from <hi>Philippy,</hi> as the firſt was, in which this is opened clear<g ref="char:EOLhyphen"/>ly, 2 <hi>Cor:</hi> 11.4. where the Teacher of each ſociety is applyed unto; who is ſaid, to teach Jeſus the foundation; yea, and the Goſpel which <hi>Paul</hi> taught, but in a corrupt way, as <hi>verſ:</hi> 3. He was afraid, leſt their minds were corrupted from the ſimplicity of Chriſt. And now leſt the Apoſtle ſhould be thought to aim at one individuall perſon in the word, he <hi>verſ:</hi> 3. compares <hi>verſ:</hi> 13, 14. Satans Mi<g ref="char:EOLhyphen"/>niſters to the Miniſters of Chriſt, for number, order, way of mini<g ref="char:EOLhyphen"/>ſtry as <hi>Paul</hi> in the Goſpel had taught to be. Or, who knoweth not, that the Church of <hi>Corinth</hi> could not ſo eaſily be ſeduced by them?</p>
+            <p n="3">3. But that this is not meant of a ſingle miniſtry, as the Doctor dreams, I commend to his conſideration, 1 <hi>Cor:</hi> 3. <hi>verſ:</hi> 13. <hi>The fire ſhall try every mans work, of what ſort it is.</hi>
+            </p>
+            <p n="1">1. Here is every man, not one mans work then is applyed to.</p>
+            <p n="2">2. Every mans work is of one of theſe ſorts, and not one mans of all of theſe ſorts as Mr Doctor, I will not ſay, fantaſtically con<g ref="char:EOLhyphen"/>jectures.</p>
+            <p n="3">3. <hi>Verſ:</hi> 14. If any mans work abide. <hi>Verſ:</hi> 15. If any mans work ſhall be burnt: See, Reader, how corrupt the Doctors expoſition is, and contrary to the Scripture, by his doctrine; no mans work ſhall abide his miniſtry, builds hay, wood an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtubble; nor no mans work be burned; for again, his miniſtry builds gold, ſilver,
+<pb n="27" facs="tcp:135183:16" rendition="simple:additions"/> precious ſtones: Mr Doctor, your doctrine is wooden doctrine, at laſt you will ſuffer loſſe by it.</p>
+            <p>
+               <hi>P.</hi> 26. 1 <hi>Cor:</hi> 4.6. Theſe things have I transferred to my ſelf, and <hi>Apollo.</hi>
+            </p>
+            <p>
+               <hi>Dr.</hi> The Apoſtle transferred the things he ſpake, of his Steward<g ref="char:EOLhyphen"/>ſhip, of the Apoſtleſhip, received of God, and of his faithfulneſſe therein to himſelf, and to <hi>Apollo,</hi> to teach the <hi>Corinthians</hi> not to be puffed up ſo one againſt another, and that they ſhould not eſteem more of any man then they ought: <hi>But you run out into endleſſe mi<g ref="char:EOLhyphen"/>ſtakes and miſ-applications of the Apoſtles meaning, and confound the places together, which have quite different ſcopes.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> 1. If the Doctor writes two le<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es for refutation, to help fill up the margent of my Book, he writes two or three of bombaſt railing accuſations, without giving reaſon, as here you con<g ref="char:EOLhyphen"/>found places together, but no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhew where: Sure he had no lei<g ref="char:EOLhyphen"/>ſure to ſhew in what, but he hath leiſure to reproach, as if he were angry at this doctrine of the Goſpel.</p>
+            <p n="2">2. He transfers the things of the Stewardſhip of his Apoſtleſhip to himſelf and <hi>Apollo,</hi> as if <hi>Apollo</hi> were an Apoſtle, as <hi>Paul</hi> was; or, as if the Stewardſhip of an Apoſtle were transferrable to a ordinary Church miniſter, other way, then in their ordinary Church mini<g ref="char:EOLhyphen"/>ſtry, as they had been joyned in their miniſtring to the Church of <hi>Corinth,</hi> in an ordinary way of miniſtry.</p>
+            <p n="3">3. The puffing up one againſt another, with the Apoſtles adding here <hi>(theſe things)</hi> muſt relate to ſomething preceding: and what then, but that in which <hi>Paul</hi> and <hi>Apollo</hi> are mentioned, or at leaſt concerned? 1 <hi>Cor:</hi> 1.12. Every one of you ſaith, I am of <hi>Paul,</hi> and I of <hi>Apollo,</hi> I of <hi>Cephas:</hi> In this theſe of <hi>Pauls</hi> ſociety boaſted them<g ref="char:EOLhyphen"/>ſelves againſt thoſe of <hi>Apollos;</hi> thoſe of <hi>Apollos,</hi> againſt thoſe of <hi>Cephas;</hi> and thoſe againſt the <hi>Catecumerii.</hi> And thus, and no way elſe, could every one of the Church be puffed up: Now theſe were diſtinguiſhed in themſelves, as well as miniſters, 1 <hi>Cor:</hi> 3.5. where the believers are divided under their ſeverall miniſtry, as the Lord hath given them to believe, <hi>verſ:</hi> 9. <hi>Paul</hi> and <hi>Apollo</hi> are co-workers in the work of the Goſpel. Now <hi>Paul</hi> transfers theſe things from them which ſucceeded them in their place of miniſtry, the mini<g ref="char:EOLhyphen"/>ſters, to himſelf and his fellow labourers, who wrought with him in the Goſpel there, for the Churches ſake, that they ſhould not think of men above that is written: Now if any men ſhould have been admired by them, it had been <hi>Paul</hi> and <hi>Apollo.</hi> 1 <hi>Cor:</hi> 3.5. Who
+<pb n="28" facs="tcp:135183:17" rendition="simple:additions"/> is <hi>Paul,</hi> or <hi>Apollo?</hi> Now if theſe were not to be looked on more then inſtruments, much leſſe their own ordinary Church miniſtry reſiding amongſt them, who were far inferiour to the Apoſtle, and the reſt: but look on God, and the Ordinances.</p>
+            <p>
+               <hi>P.</hi> 26. Of <hi>Aaron</hi> his ſons, the Prieſts and Levites.</p>
+            <p>
+               <hi>Dr. Truly in all this diſcourſe, from the beginning to the end, I can ſee no<g ref="char:EOLhyphen"/>thing you do, but hunt after ſhadows.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> 1. Mr. Doctor might have ſeen by what is ſaid before, that the Aſſembly in their propoſitions, did not place the Evangeliſt rightly, in putting him before the Prophet, againſt expreſſe Scri<g ref="char:EOLhyphen"/>pture, <hi>Eph.</hi> 4.11. I fear there was corruption in it, enough to ſhew he will never ſee if he can chooſe, an Evangeliſt is an ordina<g ref="char:EOLhyphen"/>ry Miniſter <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ought <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Church; and therefore put him be<g ref="char:EOLhyphen"/>fore the Prophet, that none ſhould once queſtion it: Did not God foreſee this? and ſhew this was of great concernment? when, 1 <hi>Cor:</hi> 12.28. he ſet down, firſt, Apoſtles; ſecondly, Prophets, not Evangeliſts, it is clear: And thus on intreaty ye cannot ſee to mend, as if it were not ſo, or no error, though ye have been called on to do it.</p>
+            <p n="2">2. Mr Doctor, I uſe this as a ſhadow only, as is in words expreſ<g ref="char:EOLhyphen"/>ſed: but you, in your propoſitions for the Paſtor, confirm your miniſtry by theirs, as by Goſpel-authority; and you confirm your Governours and Government by them, as in the ſec<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> for Church Governours.</p>
+            <p n="3">3. You confeſſe, they have a repreſentation of ſpirituall things, why did you not tell, where of the miniſtry, or not, you were a<g ref="char:EOLhyphen"/>fraid? To ſay it did not, leſt every child ſhould deſcry either your weakneſſe, or wilfull corruptneſſe; and therfore you ſay very wa<g ref="char:EOLhyphen"/>rily.</p>
+            <p>
+               <hi>Dr.</hi> Now it is not to be denied, but theſe things have ſome ſig<g ref="char:EOLhyphen"/>nification and repreſentation of ſpirituall things; but I am ſure they do not near your purpoſe. <hi>Or if they relate to the work of the mi<g ref="char:EOLhyphen"/>niſtry,</hi> in ſome ſenſe, yet they will not evince that Evangeliſts, in your ſenſe, are to be perpetuall and ordinary Officers; and that there muſt be in every Congregation, ſuch diſtinct Officers as you imagine.</p>
+            <p>
+               <hi>Reſp.</hi> 1. Mr Doctor, do you come with an <hi>if they relate to the work of the miniſtry:</hi> you do learnedly to queſtion that.</p>
+            <p n="2">2. You are ſure not to my purpoſe; that is, you are conceitedly ſure, but ar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not ſure from the word: if you are, why did you not
+<pb n="29" facs="tcp:135183:17" rendition="simple:additions"/> ſet down, from what Scripture, that I may be made ſure or, as well as you? Sir, think you I may not as well ſay, for any ground you have ſet down to the contrary, ſure the Doctor is deceived in this poynt?</p>
+            <p n="3">3. But if they do relate to the miniſtry, yet they will not evince that Evangeliſts are to be, &amp;c. Mr Doctor, I told you, it was but a ſhadow; I hunted not for it, to prove the Goſpel Government by it, as you do; I uſed it only to illuſtrate and ſhew the miniſtry in the Jewiſh Church, in ſome kind did reſemble this, under the Go<g ref="char:EOLhyphen"/>ſpel, in ſuch things as are morall, that the Church was to be mini<g ref="char:EOLhyphen"/>ſtred to other waies then by a ſingle miniſtry.</p>
+            <p>Sir, in the margent of my Book, <hi>pag:</hi> 27. at <hi>Rom:</hi> 2.20. that babes are the Teachers Congregation; you ſet your mark of <hi>(C)</hi> upon it, but durſt not ſtay there, nor ſay a word, leſt you ſhould open a gap for it: You have touched but little of my Book, and that you have done, is to as little purpoſe, as ever Doctor did undertake to do a thing, as every rationall unprejudiced man will ſay, that ſeeth it: and here's the cry you make with it.</p>
+            <p>
+               <hi>P.</hi> 27. Not to baptize, but to Evangelize.</p>
+            <p>
+               <hi>Dr.</hi> It is proper to all that preach the Goſpel, to baptize: ſuch as did receive their commiſſion for the one, the other is joynt, <hi>Math:</hi> 28.19. <hi>I think it ſhould be did for the other.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> 1. <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> which is properly to make Diſciples, and ſignifieth that teaching that went before baptizing, as in the order of the words is to be obſerved.</p>
+            <p n="2">2. Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Diſciples here ſent out, had, by <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> extraordinary call, to do all which we have not.</p>
+            <p n="3">3. Baptiſme brought them into the Church; after which, the Apoſtle diſtinguiſheth again, by another kind of teaching, called Evangelizing, which differed from that went before baptizing, in <hi>Math:</hi> 28. <hi>Col:</hi> 1.17. and from his teaching baptized.</p>
+            <p>
+               <hi>Dr.</hi> To baptize, was no more proper to the Doctor, then the Evangeliſt.</p>
+            <p>
+               <hi>Reſp.</hi> This you only aſſert on your own word; but Sir, in that there are to be in the Church, Evangeliſts, Paſtors, T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>achers; how are theſe in the Goſpel diſtinguiſhed, for miniſtry and adminiſtra<g ref="char:EOLhyphen"/>tions? If one have to do in the Church, as much in all ordinances, as the other: then all are Evangeliſts, all Paſtors, all Teachers; if nothing be proper to eithers miniſtry, but all alike: Sir, though the <hi>Smoke of the Temple</hi> hath blinded your eies, yet the light of the
+<pb n="30" facs="tcp:135183:18"/> Goſpel may let you ſee other things. Sir, by this you would make God the Author of Confuſion, who is the God of Order; and that you ſo oft call confuſion, in my Book, is Goſpel order in Gods Book. <hi>Rom:</hi> 2.20. He that was the Teacher of Babes, was the Ba<g ref="char:EOLhyphen"/>ptizer of Babes: but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> was the Teacher: <hi>Ergo,</hi>
+            </p>
+            <p>
+               <hi>Dr.</hi> To baptize, was not the main work for which the Apoſtles were ſent, nor for which miniſters are appoynted: to preach the Goſpel, is the main work, and the princip<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll: And <hi>this is all</hi> that the Apoſtle in the place doth intend, and not to diſtinguiſh <hi>preaching</hi> and baptizing ſo, as if they did belong to ſeverall offices and admi<g ref="char:EOLhyphen"/>niſtrations: <hi>You do in this, as in moſt of your other allegations, rack the Scriptures, and make it ſpeak that which it never meant.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> 1. Mr Doctor, At the cloſe ends ſtill with ſome <hi>Monstrum hor rendum;</hi> intending, that when this prog in the dark was carried up and down, the Reader wherever he opened the Book, and per<g ref="char:EOLhyphen"/>uſed his notes, ſhould apprehend that, and all the reſt, to be abo<g ref="char:EOLhyphen"/>minable ſtuffe, without more looking after it, as ſome of late, for<g ref="char:EOLhyphen"/>merly my Friends, told ſome of my Congregation, that the Mini<g ref="char:EOLhyphen"/>niſters made but a mock of my Books; chiefly occaſioned, doubt<g ref="char:EOLhyphen"/>leſſe, through the Doctors ſilly notes and notions.</p>
+            <p n="2">2. Whereas you ſay, to baptize, was not the main work for which the Apoſtles were ſent, nor for which miniſters are appoyn<g ref="char:EOLhyphen"/>ted; I know none denies it: But Mr Doctor, the Queſtion is, where it were to be done, or not?</p>
+            <p n="2">2. Where it were to be done, but by miniſters ordinarily, that were ſent, or called to do it, or not?</p>
+            <p n="3">3. The Apoſtle ſaith, he was not ſent to do that, 1 <hi>Cor:</hi> 1.17. that is, ordinarily; and then where others were not ſent thereto, the Apoſtle baptized few, 1 <hi>Cor:</hi> 1.14, 16 and yet in <hi>Corinth, Act:</hi> 18.8. many hearing believed, and were baptized: Your Coun<g ref="char:EOLhyphen"/>tryman <hi>Rutherford,</hi> a man of judgment, ſaith, in his Treatiſe of <hi>Church-Government;</hi> ſome other, hence, in <hi>Corinth</hi> did baptize, beſide <hi>Paul;</hi> and can you think he did it in the ſame Church with him, without Commiſſion? And did not this Commiſſion he had, in ſome kind, give the Apoſtle cauſe to ſay, being in ordinary Church-fellowſhip with the other, he was not ſent to Baptize, but Evan<g ref="char:EOLhyphen"/>gelize, and cals him co-worker with him, working in the ſame Church <hi>Paul</hi> taught in: prove the contrary, if you can.</p>
+            <p n="4">4. I diſtinguiſh not teaching from baptizing, but the Teachers by their adminiſtrations; the Teacher teacheth, as well as the E<g ref="char:EOLhyphen"/>vangeliſt,
+<pb n="31" facs="tcp:135183:18" rendition="simple:additions"/> though not the ſame doctrine, nor to the ſame people.</p>
+            <p n="5">5. The Apoſtle, not I, diſtinguiſheth Evangelizing from Bapti<g ref="char:EOLhyphen"/>zing; Baptiſm being a peculiar act of the Teachers miniſtry, and in a eſpeciall kind diſtinguiſhing him.</p>
+            <p n="6">6. If this were ſo common to all, why did not <hi>Peter</hi> baptize the firſt Gentiles, men that received the holy ſpirit, but comand others to do it, <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>:</hi> 10.48.</p>
+            <p>
+               <hi>P.</hi> 28. In ſaying he was not, the Apoſtle implyeth, ſome are ſent to baptize.</p>
+            <p>Dr. Do you think, that any are ſent to baptize, and not to preach?</p>
+            <p>Mr Doctor, have you my Book to read, and do you ask that queſtion? Or did you ſend to Mr <hi>Ellis</hi> to anſwer you for me? Do you find any ſuch thing in all my Book? Is not the contrary ſet down in many places? Sir, it ſeems you would beg me ſay ſo, be<g ref="char:EOLhyphen"/>cauſe you cannot make my Book do it: Are things at this ebb with you, Mr Doctor?</p>
+            <p>Dr. If the purpoſe of ſending is primarily to preach, and ſecon<g ref="char:EOLhyphen"/>darily <hi>to baptize, then the Apoſtle ſaith right, that his commiſſion was rather to intend the preaching work, then the Baptizing of Diſciples.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> 1. Mr Doctor, <hi>What if this be not the purpoſe? what then? doth the Apoſtle ſay wrong?</hi> (it's <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> no wrong to me, if you ſay ſo of my writings, if you are ſo ſaucy to ſay ſo of the Apoſtles) but Mr Doctor, we know your mind, which is this, That if the Apoſtles, or any elſe, ſay otherwaies, then you would have them ſay, they ſay wrong: but when they ſay as you would have them ſay, then they ſay right; <hi>yea, right or wrong.</hi>
+            </p>
+            <p n="2">2. It was primarily to preach, but it was to men without the Church, before Baptiſm; and ſecondarily, baptize; and yet Mr Doctor, the Apoſtle is wrong in your ſenſe.</p>
+            <p n="1">1. Here he ſpeaks of Baptizing firſt, as the firſt, and Evangelizing after.</p>
+            <p n="2">2. This was to a Church conſtituted, even <hi>Corinth,</hi> and tended to perfect them after the Church admiſſion in the faith of the Goſpel, being baptized already.</p>
+            <p>
+               <hi>Dr.</hi> In your paragraph foregoing, you ſay, that baptizing was, and the Doctrine (of <hi>B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ptiſm</hi>) the Doctors work; as appears, <hi>Heb.</hi> 6.1. and why not the Paſtors, and the Evangeliſts, or the Apoſtles, do all that either of theſe do.</p>
+            <p>
+               <hi>Reſp.</hi> Mr Doctor, <hi>Your, why not, hath no cauſe in it, why they, yea, or the
+<pb n="32" facs="tcp:135183:19" rendition="simple:additions"/> Apoſtles themſelves, ſhould do it ordinarily:</hi> yet for theſe cauſes not.</p>
+            <p n="1">1. Becauſe God for edification and order, ordered it otherwaies.</p>
+            <p n="2">2. By a Goſpel law, God hath committed to each one his diſpen<g ref="char:EOLhyphen"/>ſation in his proper place: Sir, if a man had asked <hi>Moſes,</hi> why may not the Levites do that the Prieſts do? the Prieſts do that the high Prieſts do? would he not have ſaid, it was otherwaies in your pat<g ref="char:EOLhyphen"/>tern, God will not have it ſo: and what elſe could he have ſaid? for who hath been his Counſellour?</p>
+            <p>Dr. <hi>Heb:</hi> 6 1. The fundamentals of the Doctrine of Chriſt, are reckoned up: and hath the Evangeliſt nothing to do with them to publiſh them? <hi>I wonder at this weakneſſe, and at the whole ſequel of this diſcour<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</hi>
+            </p>
+            <p>
+               <hi>Reſp. Mr Doctor,</hi> The Evangeliſt hath to do with them, as a belei<g ref="char:EOLhyphen"/>ver; but to teach theſe to the ſociety of ſtrong men in Chriſt, he hath not: I do not know where you will ſay the Apoſtle ſaith right or wrong in ſaying ſo, as you did before; but ſo he ſaith, <hi>Heb:</hi> 6.1. <hi>Leaving therfore the word, or Doctrine, of the beginning of Chriſt,</hi> let us be carried on unto perfection; and after, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Mr Doctor,</hi> what is here meant by this not again laying the foundation, if not that they were not to be taught again, to perfect men by the Evan<g ref="char:EOLhyphen"/>geliſts, as they before had been by the Teacher to his babes.</p>
+            <p>P. 29. <hi>Nicodemus. John</hi> 3.12.</p>
+            <p>Dr. What although Chriſt doth ſpeak of earthly and heavenly things, in reſpect of the ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ter; doth it therfore follow, that he who teacheth the one, may not meddle with the other? Theſe conſequences are ſo ſenſleſſe, that a man doth not know what to ſay of them.</p>
+            <p>Reſp. Mr Doctor, See Joh. 3.3. 1. There is mention of a man, one that is in the condition of all mankind, before regeneration, meerly naturall. 2. Regenera<g ref="char:EOLhyphen"/>tion is required of him, as the means. 3. Before this, he cannot ſee the Kingdom of God in himſelf, or in Church communion, as the end; for theſe are aimed at, as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n verſ: 5. is ſet out by water, for the viſible Kingdom, or adminiſtrations of that Kingdom, and then the Holy Ghoſt for the inward.</p>
+            <p n="1">1 In the former eſtate, he is of the earth earthly, as the firſt Adam was, 1 Cor. 15.47 to whom Chriſt ſheweth, what that eſtate is, and what is required to come out of it. 2. In the Kingdom eſtate are Heavenly things miniſtred, which Chriſt doth not miniſter to them, not born again, and ſhews why not, becauſe if they could not believe that Doctrine, or teaching, did ſo mediatly concern their ſtate and condition: how ſhould they believe that concerned the eſtate of Saints only: Mr Doctor, methinks this ſhould clear your eies of your confuſed Antichriſtian way teaching: if you teach the Goſpel eſtate of an Evangelized Saint, your unregene<g ref="char:EOLhyphen"/>rate Church-members are never the better, <hi>ipſe dixit,</hi> how ſhall they believe them? Here, as in a glaſſe, ye may ſee the ground of your unprofitable teaching: yet let Chriſt ſay what he will, you will teach ſo.</p>
+            <pb n="33" facs="tcp:135183:19" rendition="simple:additions"/>
+            <p>P. 29. 2 <hi>Tim.</hi> 4.5. Doe the work of an Evangeliſt.</p>
+            <p>Dr. <hi>The place of Timothy is perverted, and rack'd beyond the Apoſtles pu<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſe, for the Apoſtles meaning is not to ſignifie an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſuch thing as is here inſerted,</hi> but only that <hi>Timothy</hi> by being ſober, and watchfull, and painful in the work of the Goſpel, ſhould give unto all a ful aſſurance of the truth of the Goſpel, whereof he was a miniſter, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which is here required, is the ſame whereof the Apoſtle ſpeakes after, verſ. 17. where he ſai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h, that Gods aſſiſtance of him in his ſuffe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ings, made the preaching fully known, and gave to all an aſſurance of the truth thereof: ſo then, to make a ful proof of the mi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſtry, is no<g ref="char:EOLhyphen"/>thing elſe but to approve ones ſelf to the conſcience of all, by a true and faithful carriage of one<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the charge: <hi>You do here, as in all other places, alm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt, you take hold of a word, and run away with it, to apply it to your fancy, and draw conſe<g ref="char:EOLhyphen"/>quences from it, and never look to the Apoſtles ſcope.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> 1. Your beginnings and endings oft times are like, you cry out of rack<g ref="char:EOLhyphen"/>ing Scriptures; let the Reader judge of whom the Scripture? cry out of racking moſt, you, or me? and who perverts them moſt? <hi>all that you ſay is meant in the Scripture every word, but not any ſuch thing as I affirme; ideots</hi> that cannot try you, muſt truſt you, but men of judgement and underſtanding wil the ſooner miſtruſt you; Sir, you are as errour wrapt up in truth's Cloak, let that be once taken from you, and you will cozen no man more.</p>
+            <p n="2">2. The maine thing in the text is, that <hi>Paul</hi> bids him do the worke of an Evan<g ref="char:EOLhyphen"/>geliſt, which before he had not done in his former Miniſtry; if he had, why doth <hi>Paul</hi> give him a charge to do it now? and then backs it with this, of make full proof of the miniſtry, or bear the ful miniſtry: now you leave out, and ſay not a word of that which contained the mattter it ſelf, and run to a ſtory very imper<g ref="char:EOLhyphen"/>tinent to the thing in hand.</p>
+            <p n="3">3. But that the Reader may underſtand you the better, the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, relates to the Evangelical office here in this verſe, and that in verſe 17. hath reſpect to verſe 6, 7. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which ſhewes with that ver. 17. that he had done by his Miniſtry, what God had ordai<g ref="char:EOLhyphen"/>ned in this world for him to do, and no otherwaies, applying to <hi>Numb.</hi> 8.24. this is that belongs to the Levites, from 25 years old, and upward.</p>
+            <p>It is <hi>they ſhall enter into the Militia,</hi> (quaſi bellatores) <hi>in ſervice, &amp;c.</hi>
+            </p>
+            <p>Sir, I have heard it reported, that you had that honour to be choſen, the man to reconcile <hi>Lutherans,</hi> and <hi>Proteſtants:</hi> If ſo, ſure you will never have the honour to bring the <hi>Presbytery</hi> to the Goſpel Government, which would be greater honour by far unto you.</p>
+            <p>P. 30. <hi>Heb.</hi> 6.1. The Evangeliſts office is higeſt, and diſtinct from the Doctors.</p>
+            <p>
+               <hi>Dr.</hi> The Apoſtle doth indeed diſtinguiſh between the fundamental doctrine, and the doctrine of perfection; ſhewing, that he would ſpeak of matters which did require more higher capacity, and greater attention then theſe firſt principles did ſtand in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eed of, he ſpeaks of the difference of things to be taught.</p>
+            <p>
+               <hi>Reſp.</hi> Thus far Mr. Doctor is forced to confeſſe, and aſſigne to truth, there is a neceſſity, its ſo plaine, every eye may ſee it.</p>
+            <p>
+               <hi>Dr.</hi> But now of different offices, and officers of Teachers.</p>
+            <p>
+               <hi>Reſp.</hi> What, not Paſtors and Teachers, if no Evangeliſts? Mr Doctor, you will thus overthrow your Preſbyterian building.</p>
+            <p>
+               <hi>Dr.</hi> For he ſpeakes of himſelf as Teacher of both, only that in reſpect of time, and different capacities, the fundamentals were to be taught firſt, and the ſuper<g ref="char:EOLhyphen"/>ſtructures afterward<g ref="char:punc">▪</g>
+            </p>
+            <pb n="34" facs="tcp:135183:20" rendition="simple:additions"/>
+            <p>
+               <hi>Reſp.</hi> If you obſerve Mr Doctor well, he is almoſt come home, the Apoſtle as an extraordinary officer may do all the parts of the Miniſtry, <hi>but in doing them,</hi> he did obſerve time, and the Capacities of the peo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le, that is in the infancy of Chriſti<g ref="char:EOLhyphen"/>ans, he taught as a Doc<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r giving milke, and when to be of ſtronger capacitie, to give them ſtronger meat; t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e fund<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mentals (<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n order) being to be taught firſt, and the ſuperſtructures afte ward: O that M. Doctor would, or could ſhew us this Goſpel way, in practiſe amongſt the Pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſby<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut us in hope when it will be.</p>
+            <p>
+               <hi>Dr.</hi> But from hence nothing c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n be <gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ted, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich here you <hi>would ſerue out of it,</hi> viz. That here ſhould be a dividing <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the Miniſtry to theſe ſevera<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> works, as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f one and the ſame man (here is Mr Doct<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aven, all is like to be loſt, why pray let it go, for Chriſt and the Goſpel, Mr Doctor) ſhould not intend both, in reſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ect of ſeveral hearers, the ſame Miniſterial work, in the Pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>toral and Doctoral charge, is to apply it ſelfe to the young and old, in catechetical exerc<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and Prophetical exerciſes to the other.</p>
+            <p>
+               <hi>R<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>p.</hi> 1. What, Mr Doctor (nothing) your ſelf have inſerted much, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut hath Go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſet up in the Church differing Miniſtries, <hi>Eph.</hi> 4.11. and to theſe are there appointed ſeveral adminiſtrations? 1 <hi>Cor.</hi> 12.5. and then ſeveral capacities accor<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly? and yet I need to ſhew you away to ſcrew them hence, if they be clear in other Scriptures elſewhere? againe, theſe adminiſtrations are for ſeverall works, or operations, 1 <hi>Cor.</hi> 12.6. and thus, Mr Doctor, your ſcruples about this all-along moved are ſatisfied, if you are, by clear Goſpel truth ſatisfiable, if not, I muſt leave you to God.</p>
+            <p n="2">2. See how Mr Doctors Bels hang together; here is the Paſtoral, and the Do<g ref="char:EOLhyphen"/>ctoral charge, here are ſeveral hearers, and theſe hearers of ſeveral capacities; yet for to uphold a ſingle Miniſtry, one man muſt do it all.</p>
+            <p n="3">3. Mr Doctor had forgot the <hi>Hebrews</hi> were a Church ſociety, that were here wrot unto, <hi>Heb:</hi> 3. partakers of the heavenly calling, brethren, and holy breth<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <hi>Heb.</hi> 12.22. and 5.12. and do<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h Mr Doctor read, that in the firſt 200 years of Ch iſt, the Catechiſt did at all Catechize men within the Church, and bap<g ref="char:EOLhyphen"/>tized as theſe were, who would thinke Mr Doctor were ſo deluded?</p>
+            <p>P. 30. Muſt not repentance, &amp;c.</p>
+            <p>
+               <hi>Dr.</hi> This <hi>Queſt.</hi> and <hi>Reſp.</hi> to it, and all the following diſcourſe upon it, it is to me ſo confuſed, &amp; intricate, that I can make no ſence of it, nor hath it any coherence with <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat which the Apoſtle doth aime at in the place, nor is it worth the conſideration, it is ſo ſilly and ſo weake.</p>
+            <p>
+               <hi>Reſp.</hi> I wil not open theſe things, but refer them to the Reader to judge, where the Doctor could not underſtand it, or rather would not, as being a fine way of evaſion; it had been his wiſeſt way to have done thus with all that he could not ob<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ect againſt, which is materially againſt him as the reſt.</p>
+            <p>P. 32. 1 <hi>Tim.</hi> 3.14. <hi>Dr.</hi> This place is neither rightly alledged, nor applied right<g ref="char:EOLhyphen"/>ly to the Apoſtles ſcope.</p>
+            <p>
+               <hi>Reſp.</hi> The former part of the words were not truely Printed, the latter, which hath that which was intended, are rightly obtained (to themſelves) a good degree (in the houſe of God) which was to ſhew, that any office in the houſe of God, was of great honour; and men ſhould be content with any therein, though the loweſt.</p>
+            <p>P. 34. <hi>Heb.</hi> 14.17. <hi>Dr.</hi> The Apoſtle writes to all the <hi>Hebrews</hi> in the world.</p>
+            <p>
+               <hi>Reſp.</hi> Mr Doctor, how doth this appear, I wil not take your word for it, was <hi>Heb.</hi> 5.12. ſaid to the <hi>Jewes</hi> of all the world? or chap. 12.22.</p>
+            <p>
+               <hi>Dr.</hi> Theſe had many leaders in ſeveral Congregations, and he deſires them re<g ref="char:EOLhyphen"/>ſpectively to be ſubject to them, that is, that each Congregation ſhould ſubmit to <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> r <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wn.</p>
+            <p>Reſp. Mr Doctor, Doth Paul write as John to the ſeven Churches, or Peter to the
+<pb n="35" facs="tcp:135183:20" rendition="simple:additions"/> diſperſed in Galatia, Capadocia, &amp;c. that you dare affirm this you doe on theſe tearms? and at laſt for your parochiall liberty, or all were loſt.</p>
+            <p>Doctor. From hence you will infer, becauſe the word, <hi>Leaders,</hi> is in the plurall number, that every congregation hath many leaders, which is very weak.</p>
+            <p>
+               <hi>Reſp.</hi> From whence ſhall I inferre, but from the Scriptures? <hi>James</hi> 5.14. and I provoke you to ſhew in all the Scripture, where the whole Church Miniſtry are ſpoken of, of any Church, and are not ſet down in the plurall number: and M. <hi>Dr.</hi> to ſay they ſhould be in every Congregation, is a concluſion of your own, and none of mine: I ſay, in every Church; as for the weakneſſe of it, I know it is not the wea<g ref="char:EOLhyphen"/>ker for your blowing on it. But M. Doctor, What think you of Acts 14.23. they ordained them Elders in every Church 1. theſe not Nationall Churches, 2. Nor were they Elders ordained.</p>
+            <p>
+               <hi>Doct.</hi> Then you ſay, that theſe leaders are to be meant by the miniſtring officers and not ruling Elders, by verſe 7. but that verſe doth ſpeak of thoſe that guide and rule <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> and no ruling Elders ſhould be no others, then ſuch as are able to ſpeak the word on occaſion; nor ſhould thoſe that ſpeak the word, be with<g ref="char:EOLhyphen"/>out a guiding and ruling authority; for the leading is to be according to the word, and by it, which makes the Doctor and the Paſtor to be the ſame.</p>
+            <p>Reſp. Mr Dr. the <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> are all here ſpoken of, either ruling Elders, or teaching Elders: I ſpeak according to your own diſtinſtion; but that they are tea<g ref="char:EOLhyphen"/>ching, and not ruling Elders, verſe 7. They have ſpoken to you the word, and for that conceit, that the ruling Elder ſhould be ſuch. 1. I require you to ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ew me the conſtitution of ruling Elders.</p>
+            <p n="2">2. The command or practice that any was to, or did do ſuch a thing; if not, Sir, you doe but undervalue your ſelfe to write ſuch things at all.</p>
+            <p n="3">3. You come with your old device, and find away out of this text, and every text to make the Doctor and Paſtor; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but let me mind you, if by divine inſtitu<g ref="char:EOLhyphen"/>tion they are two, you wrong the truth, and your ſelf, and the Church alſo, to make them one, and here ſpoke of as of diverſe perſons.</p>
+            <p>Sir. <hi>I</hi> ſhall ingeniouſly confeſſe, that of all the books I ever read, of my little reading, I never read any man that endeavoured to make Paſtor and Teacher, one, as you have all along done, and altogether oppoſite to the truth: yea, the Aſſembly propoſitions, <hi>Adeo dat,</hi> Eph. 4.11. the two laſt ordinary and perpetuall, that is the Paſtor and Doctor, <hi>Wollebius, Paſtores, Eccleſiis, Doctores, Scholis, Praefecti,</hi> Eph. 4.11. <hi>Arminius, diſp Theol. Corrol.</hi> 59. <hi>m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>diate vocati Paſtores &amp; Doctores, Epiſcopi &amp; Praesbyteri, qui certis Eccleſiis ſunt praefecti, Calvini Juſt. lib.</hi> 4. <hi>cap.</hi> 4. <hi>ex ordine Praesbyterorum partim eligebantur Paſtores &amp; Doctores. Bilſon, Vide Zanch: praecep:</hi> 4. <hi>cap.</hi> 19. and the Churches practice in New-England.</p>
+            <p>Pag. 35. People, Miniſters and ordinary miniſtry.</p>
+            <p>Doct. O theſe alluſions and applications, are no proofs of the point,</p>
+            <p>Reſp. which Dionyſius they are, as I have ſince the writing of my book, read to good ſatisfaction, and many more of the Antients, though the Doctor ſaith it is nought.</p>
+            <p>P. 35. That the man of God may be perfect. 2. Tim. 3.16, 17.</p>
+            <p>Doctor. This perfection is the end and effect of the foregoing uſefulneſſe of the Scripture; and from thence is to be inferred, that by the Doctors and Paſtors office rightly uſed, the man of God will become perfect.</p>
+            <p>Reſp. M. Doctor, Why do ye not adde the Evangeliſts offici? you may as well, for the Doctor nor Paſtors office is not rightly uſed in your Preſbytery; but theſe rightly uſed, with the Evangeliſt, through the effect and uſefulneſſe of the Scripture make the man of God perfect.</p>
+            <pb n="36" facs="tcp:135183:21" rendition="simple:additions"/>
+            <p>Doctor. And therefore none other diſtinct office in ordinary, is requiſite to in<g ref="char:EOLhyphen"/>fer; becauſe the word, perfection, is here uſed, that therefore an Evangeliſts office is intimated as a meer fancy.</p>
+            <p>Reſp. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Doctor, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Paſtor, is not mentioned, yet they are allowed; but there is no allowance for an Evangeliſt, an ordinary Church-miniſter, no leſs of God inten<g ref="char:EOLhyphen"/>ded then the reſt; but is ſtill caſt off by Mr Doctor, for, and with the reproach of fancy, notion, whimſy.</p>
+            <p>P. 36. Evangelized Chriſtian man.</p>
+            <p>Doctor. What this Evangelized Chriſtian man is, diſtinct from him that is taught and governed, <hi>I</hi> know not, neither do I believe you can ſhew.</p>
+            <p>Reſp. M. Dr. As in <hi>Adam,</hi> ſo in Chriſt, there are differing ſtatures; you may, being a rationall man, underſtand the one by the other; now as he differs in ſtature from children, ſo ſhould the adminiſtrations differ, that are adminiſtred in the Church to him accordingly.</p>
+            <p n="2">2. That this Evangelized Chriſtian, ſhould differ from one taught, and govern<g ref="char:EOLhyphen"/>ed by the Goſpel, is a conceite of your own, and none of mine.</p>
+            <p>P. 26. 1. Doctrine is not for all, but babes only. 2. Exhortation for young men only, Evangelical miniſtry for perfect men only.</p>
+            <p>Doctor. Is not the teacher and the exhorter a Goſpel miniſter? this is a fancy indeed which hath no ground.</p>
+            <p>Reſp. Mr Dr. See Rom. 12.6, 7. Propheſie is for the Prophet; miniſtry for the Evangeliſt; Teaching, for the Teacher; exhortation for the exhorter; and is not the exhorter, or teacher, a miniſter in this place? and is not this a fancy the Apoſtle ſpeaks in this place? or what ſaith the other then ſaid before?</p>
+            <p>P. 36. 1 <hi>Cor.</hi> 4.1. Of that men are Miniſters, they are ſtewards onely, the Dr. of doctrinall part; the Paſtor of the paſtorall &amp;c.</p>
+            <p>Doctor. Is not the doctrinall of the Evangelicall part of miniſtry?</p>
+            <p>Reſp. The Goſpel miniſtry is Evangelicall all, but is divided into three parts by God in the Goſpel, one being not more Evangelicall then the other.</p>
+            <p>Doctor. Why do you leave out the practicall, which is the Paſtorall charge?</p>
+            <p>Reſp. Its well you are ſo ſenſible, as to miſſe one in my writing; you doe not miſs two in your Church; one is enough you know not what to doe with any more; but ſee Mr Dr. 2 <hi>Tim.</hi> 1.12. puts down Apoſtle, the firſt of the Church miniſtry and Dr. of the laſt, and under theſe comprehends the reſt; and will you not allow me this? if not, I will take it.</p>
+            <p>Dr. There is no more requiſite, but faith and obedience, which two are wrought out by the doctorall, and paſtorall adminiſtrations; what uſe is there of this Imagi<g ref="char:EOLhyphen"/>nary part of the Exangeliſt diſtinct from both?</p>
+            <p>Reſp. Mr Dr. Faith and obedience are miniſtred under Teacher, Paſtor, Evan<g ref="char:EOLhyphen"/>geliſt, one as well as the other, according to the capacity of thoſe are taught; each one by degrees, perfecting Faith and Obedience in the Saints; the Doctors, Teachers; faith and obedience to Saints as children; the Paſtor as young men; the Evangeliſt as ſtrong men; and not as the Doctor dreams, one teacheth faith onely, the o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her obedience</p>
+            <p>Thus the Dr. having done with my book, <hi>I</hi> have done with him, untill he pleaſe to rejoyn and begin again, only this I commend to thee Reader, that that which followeth in my Book did more particularly ſtrike at presbytery which the Doct<g ref="char:EOLhyphen"/>left to ſome other to do, or to ſome other time to do, or afraid, it may be, it would trouble his mind to ſtudy it, or what ever it was, he thought he had done enoug<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in this for once; and ſo have <hi>I</hi> at this time. <hi>Vale.</hi> If thou haſt any knowledge of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> truth of the Goſpel hereby at all.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
